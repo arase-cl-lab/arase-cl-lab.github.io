@@ -1,11 +1,12 @@
 ---
 layout: home
-title: Jekyll Gitbook Theme
+title: TITECH Arase Lab
 permalink: /
 ---
 
-Make Jelly site have a GitBook look!
+This website is under construction.
 
+<!--
 ## Demo
 
 Live demo on Github Pages: [https://sighingnow.github.io/jekyll-gitbook](https://sighingnow.github.io/jekyll-gitbook)
@@ -72,6 +73,8 @@ configuration in `_config.yml`:
 ```yaml
 toc:
     enabled: true
+
+-->
     h_min: 1
     h_max: 3
 ```
