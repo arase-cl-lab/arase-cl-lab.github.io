@@ -40,7 +40,7 @@
             },
         },
         "theme": "default",
-        "author": "Tao He",
+        "author": "Yuki Arase",
         "pdf": {
             "pageNumbers": true,
             "fontSize": 12,
