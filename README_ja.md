@@ -1,11 +1,11 @@
 ---
 layout: home
-title: TITECH Arase Lab
-lang: en
+title: 荒瀬研究室
+lang: ja
 permalink: /
 ---
 
-This website is under construction.
+テストページ
 
 Last update: 2024/5/2
 

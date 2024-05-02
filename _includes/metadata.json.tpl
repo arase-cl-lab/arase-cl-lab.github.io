@@ -57,7 +57,10 @@
         },
         "structure": {
             "langs": "LANGS.md",
-            "readme": "README.md",
+            {%- if page.lang == "ja" -%}
+               "readme": "README_ja.md",
+            {%- else -%}
+               "readme": "README.md",
         },
         "variables": {},
         "title": "{{site.title}}",
