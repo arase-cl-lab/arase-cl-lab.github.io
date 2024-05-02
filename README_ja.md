@@ -2,7 +2,7 @@
 layout: home
 title: 荒瀬研究室
 lang: ja
-permalink: /
+permalink: /index_ja.html
 ---
 
 テストページ
