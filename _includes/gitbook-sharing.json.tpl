@@ -25,6 +25,4 @@
                 "vk": false,
 
                 "weibo": false,
-
-                "all": ["github", "twitter"]
             },

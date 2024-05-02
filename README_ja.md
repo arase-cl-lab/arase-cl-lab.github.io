@@ -1,6 +1,6 @@
 ---
 layout: home
-title: 荒瀬研究室
+title: Welcome
 lang: ja
 permalink: /index_ja.html
 ---

@@ -1,6 +1,6 @@
 ---
 layout: home
-title: TITECH Arase Lab
+title: Welcome
 lang: en
 permalink: /
 ---

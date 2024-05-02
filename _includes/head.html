@@ -2,7 +2,7 @@
 <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
 
 {%- if page.title -%}
-    <title>{{ page.title | escape }} · {{ site.title | escape }}</title>
+    <title>{{ page.title | escape }} / {{ site.title | escape }}</title>
 {%- else -%}
     <title>{{ site.title | escape }}</title>
 {%- endif -%}
@@ -70,3 +70,19 @@
     {%- endif -%}
 
 {%- endif -%}
+
+{%- if page.lang == "ja" -%}
+{%-   assign root_path = "/index_ja.html" -%}
+{%-   assign lang_change_path = "/" -%}
+{%-   assign lang_change_title = "English" -%}
+{%- else -%}
+{%-   assign root_path = "/" -%}
+{%-   assign lang_change_path = "/index_ja.html" -%}
+{%-   assign lang_change_title = "日本語" -%}
+{%- endif -%}
+<div class="wrapper">
+    {%- assign target_pages = site.pages | where: "lang", page.lang -%}
+    {%- assign target_default_pages = site.header_pages | where: "lang", page.lang -%}
+    {%- assign target_pages = target_default_pages | default: target_pages -%}
+    <a class="site-title" rel="author" href="{{ root_path | relative_url }}">{{ site.title | escape }}</a>
+</div>
