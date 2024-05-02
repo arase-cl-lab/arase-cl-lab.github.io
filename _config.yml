@@ -4,7 +4,10 @@ longtitle:        TITECH Arase Lab
 author:           Arase Lab
 email:            sighingnow@gmail.com
 description: >
-  Build Jekyll site with the GitBook style.
+  Official website of Arase Lab at Tokyo Institute of Technology
+
+tracker:
+  google_analytics: "G-GVRH92VY05"
 
 version:          1.0
 gitbook_version:  3.2.3
