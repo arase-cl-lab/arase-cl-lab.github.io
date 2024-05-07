@@ -2,10 +2,10 @@
 # Owner's Personal Information
 ###########################################################
 # This is your brand name
-brand: "東工大 荒瀬研究室"
+brand: "荒瀬研究室"
 
 # text below the brand name
-brand_sub_text: "NLP, CL"
+brand_sub_text: "東京工業大学"
 
 # used for seo meta post author (if it's not defined in post)
 name: "Yuki Arase"
