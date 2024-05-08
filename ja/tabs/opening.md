@@ -1,7 +1,7 @@
 ---
 layout: opening
 # multilingual page pair id, this must pair with translations of this page. (This name must be unique)
-lng_pair: opening_links
+lng_pair: id_opening
 
 # publish date (used for seo)
 # if not specified, site.time will be used.
@@ -41,54 +41,45 @@ lng_pair: opening_links
 ###########################################################
 page_data:
   main:
-    header: "リンク"
-    info: "リンクページの説明はこちら。"
+    header: "配属希望のみなさん"
+    info: "荒瀬研では特任研究員を募集しています。また学内・学外を問わず自然言語処理・計算言語学の研究に取り組みたい学部生・大学院生を募集しています。意欲的で好奇心旺盛な方を歓迎しています。 **Note:** 研究生の受け入れはしていません。"
 
   # To change order of the Categories, simply change order. (you don't need to change list order.)
   category:
-    - title: "JekyII / Liquid"
-      type: id_jekyiiliquid
-      color: "gray"
-    - title: "Webデザイン"
-      type: id_webdesign
+    - title: "特任研究員"
+      type: id_postdoc
+      color: "#6fa8dc"
+    - title: "博士課程"
+      type: id_phd
       color: "#F4A273"
-    - title: "プログラミング"
-      type: id_programming
+    - title: "修士課程"
+      type: id_master
       color: "#62b462"
+    - title: "学部生（学士特定課題研究）"
+      type: id_undergrad
+      color: "#ea9999"
 
   list:
     -
-    # programming
-    - type: id_programming
-      title: "Stack OverFlow"
-      url: "https://stackoverflow.com/"
-      info: "Stack Overflowは、プロや熱狂的なプログラマー向けの質疑応答Webサイトです。"
+    # 特任研究員
+    - type: id_postdoc
+      title: "医療言語処理"
+      info: "医療言語処理プロジェクトで研究員（特任助教・研究院）を募集しています。 興味のある方はレジュメと業績リストとともに荒瀬まで連絡してください。"
 
-    # jekyiiliquid
-    - type: id_jekyiiliquid
-      title: "Jekyll"
-      url: "https://jekyllrb.com/"
-      info: "プレーンテキストを静的なWebサイトやブログに変換します。"
-    - type: id_jekyiiliquid
-      title: "Jekyllチートシート"
-      url: "https://cloudcannon.com/community/jekyll-cheat-sheet/"
-      info: "覚えておくべきJekyll変数とフィルターは非常に多く、すべてを頭の中に入れておくのは難しい場合があります。 このチートシートは、Jekyllが実行できるすべてのことのクイックリファレンスとして使えます。"
-    - type: id_jekyiiliquid
-      title: "デザイナー向けLiquid"
-      url: "https://github.com/Shopify/liquid/wiki/Liquid-for-Designers"
-      info: "デザイナー向けLiquid用GitHub wiki"
-    - type: id_jekyiiliquid
-      title: "プログラマー向けLiquid"
-      url: "https://github.com/Shopify/liquid/wiki/Liquid-for-Programmers"
-      info: "プログラマー向けLiquid用GitHub wiki"
-    - type: id_jekyiiliquid
-      title: "Liquidリファレンス"
-      url: "https://shopify.dev/api/liquid/"
-      info: "Liquidは、Shopifyによって作成され、Rubyで記述されたテンプレート言語です。 GitHubでオープンソースプロジェクトとして利用できるようになりました。"
+    # 博士課程
+    - type: id_phd
+      title: "国内の大学院を修了（予定）したの方"
+      url: "https://educ.titech.ac.jp/cs/admissions/"
+      info: "興味のある方はレジュメと業績リスト、研究計画とともに荒瀬まで連絡してください。入試の詳細については情報理工学院の入試案内を参照してください。"
 
-    # webdesign
-    - type: id_webdesign
-      title: "W3Schools"
-      url: "https://www.w3schools.com/"
-      info: "W3Schoolsは、Webのすべての主要言語で、無料のオンラインチュートリアル、リファレンス、および演習を提供しています。 HTML、CSS、JavaScript、Python、SQL、Javaなどの人気のあるテーマをカバーしています。"
----
+    # Master students
+    - type: id_master
+      title: "国内の大学を卒業（予定）したの方"
+      url: "https://educ.titech.ac.jp/cs/admissions/"
+      info: "情報理工学院情報工学系を受験してください。入試の詳細については情報理工学院の入試案内を参照してください。定期的に研究室公開を開催しています。興味のある方は荒瀬まで連絡してください。"
+
+    # Undergraduates
+    - type: id_undergrad
+      title: "東工大生"
+      info: "定期的に研究室公開を開催しています。興味のある方は荒瀬まで連絡してください。"
+------
