@@ -4,7 +4,7 @@ layout: about
 lng_pair: id_about
 
 # image for page specific usage
-img: ":about.jpg"
+img: ":lab_logo_nlp.png"
 # publish date (used for seo)
 # if not specified, site.time will be used.
 #date: 2022-03-03 12:32:00 +0000
@@ -36,9 +36,24 @@ img: ":about.jpg"
 #published: false
 ---
 
-{%- comment -%} Please delete below and place your page content here {%- endcomment -%}
+{%- comment -%} Please place your page content here {%- endcomment -%}
 
-{%- include util/auto-content-generator.liquid -%}
-{{ website_info_text_first }}
+# スタッフ
+**荒瀬 由紀**, 教授, [web](https://yukiar.github.io/)
 
-{{ website_info_text_second }}
+
+# 共同研究者
+- **内田 諭**, 九州大学, [web](http://flc.kyushu-u.ac.jp/~uchida/)
+- **梶原 智之**, 愛媛大学, [web](https://sites.google.com/site/moguranosenshi/)
+
+# 博士学生
+- **Xuanxin WU**, D2 (大阪大学)
+- **Guanting Luo**, D1 (大阪大学)
+
+# 修士学生・学部生
+- **小笠 雄也**, M2 (大阪大学)
+- **宮野 稜大**, M2 (大阪大学)
+- **Martyna Klaudia Gruszka**, B4
+- **山田 美優**, B4
+
+

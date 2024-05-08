@@ -37,9 +37,13 @@ img: ":home-heading.jpg"
 #published: false
 ---
 
-{%- comment -%} Please delete below and place your page content here {%- endcomment -%}
+{%- comment -%} Please place your page content here {%- endcomment -%}
 
-{%- include util/auto-content-generator.liquid -%}
-{{ website_info_text_first }}
+# 荒瀬研究室
 
-{{ website_info_text_second }}
+<kbd>自然言語処理</kbd>&nbsp;<kbd>計算言語学</kbd>
+
+**人間のように言葉を理解し生成する人工知能の実現**
+
+人間が言葉の意味を構成し理解する仕組みを解明し，また人間のように効果的に意思伝達できる文章を生成する人工知能の実現を目指して研究に取り組んでいます．また社会に役立つ応用として，言語学習者を支援するシステムや医療テキストを知的に処理する技術を開発しています．
+

@@ -30,16 +30,16 @@ not_found:
   line1: リクエストされたページが見つかりませんでした。
   line2: メニューを試すか、利用可能な場合はサイト検索を試してください。
 
-no_translation_tooltip: 訳がありません
+no_translation_tooltip: 日本語ページはありません
 
 navigation:
-  contact_header: コンタクト
+  contact_header: Contact
 
 color_scheme_switch_tooltip: 配色
 
 search:
   placeholder: 検索
-  noResultText: 何も見つかりませんでした。
+  noResultText: 見つかりませんでした。
 
 image_viewer:
   load_error: 画像が読み込めませんでした。
@@ -110,8 +110,8 @@ post:
 
 # for post-list layout
 post-list:
-  title: ブログ
-  button_name: ブログ
+  title: News
+  button_name: News
   upside_down_tabs:
     tab:
       all: 全て
@@ -135,35 +135,41 @@ post-list:
 # for home layout
 home:
   title: ようこそ
-  button_name: ホーム
-  new_posts_title: 新着記事
-  new_posts_show_more_button: もっと見る ...
+  button_name: Top Page
+  new_posts_title: New Articles
+  new_posts_show_more_button: View More ...
 
 # for archives layout
 archives:
-  title: アーカイブ
-  button_name: アーカイブ
-  page_header: アーカイブ
+  title: Archive
+  button_name: Archive
+  page_header: Archive
 
 # for about layout
 about:
-  title: 私について
-  button_name: 私について
-  email_title: メール
+  title: Members
+  button_name: Members
+  email_title: email
 
 # for links layout
 links:
-  title: リンク
-  button_name: リンク
+  title: Links
+  button_name: Links
   link_text: Webサイト
   info_text: 説明
 
 # for projects layout
 projects:
-  title: プロジェクト
-  button_name: プロジェクト
+  title: Projects
+  button_name: Projects
   read_more_text: 続きを読む
   read_less_text: 閉じる
+
+# for opening layout
+opening:
+  title: Opening
+  button_name: Opening
+  email_title: email
 
 # for privacy-policy layout
 privacy-policy:

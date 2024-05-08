@@ -37,9 +37,16 @@ img: ":home-heading.jpg"
 #published: false
 ---
 
-{%- comment -%} Please delete below and place your page content here {%- endcomment -%}
+{%- comment -%} Please place your page content here {%- endcomment -%}
 
-{%- include util/auto-content-generator.liquid -%}
-{{ website_info_text_first }}
+# Arase Labolatory
 
-{{ website_info_text_second }}
+<kbd>Natural Language Processing</kbd>&nbsp;<kbd>Computational Linguistics</kbd>
+
+_Artificial intelligence that can understand, entail, and generate languages at the human level._
+
+**Natural Language Understanding, Paraphrasing, Entailment**
+
+**Computer Assisted Language Learning**
+
+**Medical NLP**

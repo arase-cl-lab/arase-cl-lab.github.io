@@ -110,8 +110,8 @@ post:
 
 # for post-list layout
 post-list:
-  title: Blog
-  button_name: Blog
+  title: News
+  button_name: News
   upside_down_tabs:
     tab:
       all: All
@@ -135,7 +135,7 @@ post-list:
 # for home layout
 home:
   title: Welcome
-  button_name: Home
+  button_name: Top Page
   new_posts_title: New Articles
   new_posts_show_more_button: View More ...
 
@@ -147,8 +147,8 @@ archives:
 
 # for about layout
 about:
-  title: About
-  button_name: About
+  title: Members
+  button_name: Members
   email_title: email
 
 # for links layout
@@ -164,6 +164,13 @@ projects:
   button_name: Projects
   read_more_text: Read more
   read_less_text: Read less
+
+# for opening layout
+opening:
+  title: Opening
+  button_name: Opening
+  email_title: email
+
 
 # for privacy-policy layout
 privacy-policy:

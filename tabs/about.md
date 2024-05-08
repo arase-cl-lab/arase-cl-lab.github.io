@@ -4,7 +4,7 @@ layout: about
 lng_pair: id_about
 
 # image for page specific usage
-img: ":about.jpg"
+img: ":lab_logo_nlp.png"
 # publish date (used for seo)
 # if not specified, site.time will be used.
 #date: 2022-03-03 12:32:00 +0000
@@ -36,9 +36,23 @@ img: ":about.jpg"
 #published: false
 ---
 
-{%- comment -%} Please delete below and place your page content here {%- endcomment -%}
+{%- comment -%} Please place your page content here {%- endcomment -%}
 
-{%- include util/auto-content-generator.liquid -%}
-{{ website_info_text_first }}
+# Staff
 
-{{ website_info_text_second }}
+**Yuki Arase**, Professor, [web](https://yukiar.github.io/)
+
+
+# Collaborator
+- **Satoru Uchida**, Kyusyu University, [web](http://flc.kyushu-u.ac.jp/~uchida/)
+- **Tomoyuki Kajiwara**, Ehime University, [web](https://sites.google.com/site/moguranosenshi/)
+
+# PhD
+- **Xuanxin Wu**, D2 (Osaka University)
+- **Guanting Luo**, D1 (Osaka University)
+
+# Master & Undergrad
+- **Yuya Ogasa**, M2 (Osaka University)
+- **Ryota Miyano**, M2 (Osaka University)
+- **Martyna Klaudia Gruszka**, B4
+- **Miyu Yamada**, B4

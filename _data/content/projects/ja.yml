@@ -4,8 +4,8 @@
 ###########################################################
 page_data:
   main:
-    header: "プロジェクト"
-    info: "プロジェクトページの説明はこちら。"
+    header: "Projects"
+    info: "荒瀬研で行っている研究プロジェクト"
     text_color: "white"
     # if you don't want to use background image, comment it. back_color will be activated.
     img: ":projects-heading.jpg"
