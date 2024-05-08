@@ -31,7 +31,7 @@ lng_pair: id_opening
 # exclude from search engines
 #search_engine_exclude: true
 # to disable this page, simply set published: false or delete this file
-#published: false
+# published: false
 
 
 # you can always move this content to _data/content/ folder
@@ -41,46 +41,45 @@ lng_pair: id_opening
 ###########################################################
 page_data:
   main:
-    header: "配属希望のみなさん"
-    info: "荒瀬研では特任研究員を募集しています。また学内・学外を問わず自然言語処理・計算言語学の研究に取り組みたい学部生・大学院生を募集しています。意欲的で好奇心旺盛な方を歓迎しています。"
-    info: "**Note:** 研究生の受け入れはしていません。"
+    header: "Opening"
+    info: "We are recruiting Postdocs and looking for prospective PhD, master, and undergrad students! [Note] We do not have positions for visiting/research students."
 
   # To change order of the Categories, simply change order. (you don't need to change list order.)
   category:
-    - title: "特任研究員"
+    - title: "Postdocs"
       type: id_postdoc
       color: "#6fa8dc"
-    - title: "博士課程"
+    - title: "PhDs"
       type: id_phd
       color: "#F4A273"
-    - title: "修士課程"
+    - title: "Master"
       type: id_master
       color: "#62b462"
-    - title: "学部生（学士特定課題研究）"
+    - title: "Undergraduates"
       type: id_undergrad
       color: "#ea9999"
 
   list:
     -
-    # 特任研究員
+    # Postdocs
     - type: id_postdoc
-      title: "医療言語処理"
-      info: "医療言語処理プロジェクトで研究員（特任助教・研究院）を募集しています。 興味のある方はレジュメと業績リストとともに荒瀬まで連絡してください。"
+      title: "Medical NLP"
+      info: "We are looking for a couple of postdocs on the medical NLP project. Please send Yuki Arase your resume and list of publications."
 
-    # 博士課程
+    # PhD students
     - type: id_phd
-      title: "国内の大学院を修了（予定）したの方"
-      url: "https://educ.titech.ac.jp/cs/admissions/"
-      info: "興味のある方はレジュメと業績リスト、研究計画とともに荒瀬まで連絡してください。入試の詳細については情報理工学院の入試案内を参照してください。"
+      title: "International students"
+      url: "https://www.titech.ac.jp/english/admissions/prospective-students/graduate-programs/igp"
+      info: "We are looking for PhD students highly motivated to advance NLP/CL technplogy. Please send Yuki Arase your resume, list of publications, and research proposal. For details of admission, please visit the TITECH's official addmision page."
 
     # Master students
     - type: id_master
-      title: "国内の大学を卒業（予定）したの方"
-      url: "https://educ.titech.ac.jp/cs/admissions/"
-      info: "情報理工学院情報工学系を受験してください。入試の詳細については情報理工学院の入試案内を参照してください。定期的に研究室公開を開催しています。興味のある方は荒瀬まで連絡してください。"
+      title: "International students"
+      url: "https://www.titech.ac.jp/english/admissions/prospective-students/graduate-programs/igp"
+      info: "We are looking for international students highly motivated to advance NLP/CL technplogy. Please send Yuki Arase your resume, list of publications, and research proposal. For details of admission, please visit the TITECH's official addmision page."
 
     # Undergraduates
     - type: id_undergrad
-      title: "東工大生"
-      info: "定期的に研究室公開を開催しています。興味のある方は荒瀬まで連絡してください。"
-------
+      title: "TITECH students"
+      info: "We hold online/phisical open lab events. Please contact Yuki Arase for details."
+---

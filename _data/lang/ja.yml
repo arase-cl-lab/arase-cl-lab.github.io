@@ -97,7 +97,7 @@ post:
       move: ドラッグして移動
       close: 閉じる
   share:
-    heading: シェア
+    heading: Share on
     link_copied: リンクがコピーされました!
     tooltip:
       # keys need to match with _data/share.yml

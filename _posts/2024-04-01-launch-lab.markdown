@@ -41,12 +41,6 @@ date: 2024-4-1 9:00:00 +0900
 
 {%- comment -%} Please place your page content here {%- endcomment -%}
 
-<!-- outline-start -->
-
-Arase Lab Launched at TITECH
-
-<!-- outline-end -->
-
 Arase Lab got launched at TITECH today.
 
 Our goal is advancing technologies of natural language processing and computational linguistics and delivering exciting language applications.
