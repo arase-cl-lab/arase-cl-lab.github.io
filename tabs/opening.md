@@ -42,7 +42,8 @@ lng_pair: id_opening
 page_data:
   main:
     header: "Opening"
-    info: "We are recruiting Postdocs and  and looking for prospective PhD, master, and undergrad students! **Note:** We do not have positions for visiting/research students."
+    info: "We are recruiting Postdocs and looking for prospective PhD, master, and undergrad students!"
+    info: "**Note:** We do not have positions for visiting/research students."
 
   # To change order of the Categories, simply change order. (you don't need to change list order.)
   category:

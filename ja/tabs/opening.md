@@ -42,7 +42,8 @@ lng_pair: id_opening
 page_data:
   main:
     header: "配属希望のみなさん"
-    info: "荒瀬研では特任研究員を募集しています。また学内・学外を問わず自然言語処理・計算言語学の研究に取り組みたい学部生・大学院生を募集しています。意欲的で好奇心旺盛な方を歓迎しています。 **Note:** 研究生の受け入れはしていません。"
+    info: "荒瀬研では特任研究員を募集しています。また学内・学外を問わず自然言語処理・計算言語学の研究に取り組みたい学部生・大学院生を募集しています。意欲的で好奇心旺盛な方を歓迎しています。"
+    info: "**Note:** 研究生の受け入れはしていません。"
 
   # To change order of the Categories, simply change order. (you don't need to change list order.)
   category:
