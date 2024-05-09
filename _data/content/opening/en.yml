@@ -37,13 +37,13 @@ page_data:
         The following projects are looking for postdocs. Please refer to [Projects Page](https://arase-cl-lab.c.titech.ac.jp/tabs/projects.html) for details.
 
         ### Medical NLP
-        #### Topics of Interest
+        ##### Topics of Interest
         - Medical document summarization
         - Domain adaptation
         - Development and evaluation of medical LLMs
 
         ### LLM Evaluation
-        #### Topics of Interest
+        ##### Topics of Interest
         - Dataset creation for misalignment evaluation
         - Misalignment detection
         - Evaluation metrics for misalignment
