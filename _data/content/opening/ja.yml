@@ -5,11 +5,11 @@
 page_data:
   main:
     header: "Opening Positions"
-    info: "荒瀬研では特任研究員を募集しています。また学内・学外を問わず自然言語処理・計算言語学の研究に取り組みたい学部生・大学院生を募集しています。意欲的で好奇心旺盛な方を歓迎しています。"
+    info: "荒瀬研では特任研究員を募集しています。また学内・学外を問わず自然言語処理・計算言語学の研究に取り組みたい意欲的で好奇心旺盛な学部生・大学院生を募集しています。"
     text_color: "white"
     # if you don't want to use background image, comment it. back_color will be activated.
     # img: ":projects-heading.jpg"
-    back_color: "#d9d2e9"
+    back_color: "#5b5b5b"
 
   category:
     - title: "特任研究員"
@@ -35,21 +35,21 @@ page_data:
 #      img_title: "img title1"
       date: "2024-04-01"
       post: |
-        以下の研究プロジェクトで研究員（特任助教・研究員）を募集しています。研究内容は[Projects page](https://arase-cl-lab.c.titech.ac.jp/tabs/projects.html)を参照してください。
+        以下の研究プロジェクトで研究員（特任助教・研究員）を募集しています。研究内容は [Projects Page](https://arase-cl-lab.c.titech.ac.jp/ja/tabs/projects.html) を参照してください。
 
-        # 医療言語処理
-        ## トピック
+        ### 医療言語処理
+        #### トピック
         - 医療文書の要約技術
         - ドメイン適応技術
         - 医療LLM構築・評価
 
-        # LLM評価
-        ## トピック
+        ### LLM評価
+        #### トピック
         - ミスアラインメント評価のためのデータセット構築
         - ミスアラインメント検出手法
         - ミスアラインメントの評価指標
 
-        # 申込方法
+        ### 申込方法
         レジュメと業績リストを添付し、荒瀬までメールしてください。
 
 ################
@@ -61,10 +61,10 @@ page_data:
       date: "2024-04-01"
       post: |
 
-        # 国内の大学院を修了（予定）した方
+        ### 国内の大学院を修了（予定）した方
         興味のある方はレジュメと業績リスト、研究計画とともに荒瀬まで連絡してください。入試の詳細については<a href="https://educ.titech.ac.jp/cs/admissions/" target="_blank" rel="noopener noreferrer">情報理工学院の入試案内</a>を参照してください。
 
-        # 海外の大学院を修了（予定）した方
+        ### 海外の大学院を修了（予定）した方
         English page の情報を参照してください。
 
         (注) 入試合格前の研究生受け入れは行っていません。
@@ -77,10 +77,10 @@ page_data:
 #      img_title: "img title1"
       date: "2024-04-01"
       post: |
-        # 国内の大学院を卒業（予定）した方
+        ### 国内の大学院を卒業（予定）した方
         情報理工学院情報工学系を受験してください。入試の詳細については<a href="https://educ.titech.ac.jp/cs/admissions/" target="_blank" rel="noopener noreferrer">情報理工学院の入試案内</a>を参照してください。定期的に研究室公開を開催しています。興味のある方は荒瀬まで連絡してください。
 
-        # 海外の大学院を卒業（予定）した方
+        ### 海外の大学院を卒業（予定）した方
         English page の情報を参照してください。
 
         (注) 入試合格前の研究生受け入れは行っていません。

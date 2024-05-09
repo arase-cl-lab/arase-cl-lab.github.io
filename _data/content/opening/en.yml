@@ -8,8 +8,8 @@ page_data:
     info: "We are recruiting Postdocs and looking for prospective PhD, master, and undergrad students!"
     text_color: "white"
     # if you don't want to use background image, comment it. back_color will be activated.
-    img: ":projects-heading.jpg"
-    back_color: "#d9d2e9"
+    # img: ":projects-heading.jpg"
+    back_color: "#5b5b5b"
 
   category:
     - title: "Postdocs"
@@ -34,21 +34,21 @@ page_data:
 #      img_title: "img title1"
       date: "2024-04-01"
       post: |
-        The following projects are looking for postdocs. Please refer to [Projects page](https://arase-cl-lab.c.titech.ac.jp/tabs/projects.html) for details.
+        The following projects are looking for postdocs. Please refer to [Projects Page](https://arase-cl-lab.c.titech.ac.jp/tabs/projects.html) for details.
 
-        # Medical NLP
-        ## Topics of Interest
+        ### Medical NLP
+        #### Topics of Interest
         - Medical document summarization
         - Domain adaptation
         - Development and evaluation of medical LLMs
 
-        # LLM Evaluation
-        ## Topics of Interest
+        ### LLM Evaluation
+        #### Topics of Interest
         - Dataset creation for misalignment evaluation
         - Misalignment detection
         - Evaluation metrics for misalignment
 
-        # Application
+        ### Application
         Please email your resume and list of publications to Yuki Arase.
 
 ################
