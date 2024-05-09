@@ -9,7 +9,7 @@ page_data:
     text_color: "white"
     # if you don't want to use background image, comment it. back_color will be activated.
     # img: ":projects-heading.jpg"
-    back_color: "lightblue"
+    back_color: "#d9d2e9"
 
   category:
     - title: "特任研究員"
