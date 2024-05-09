@@ -4,13 +4,13 @@ layout: about
 lng_pair: id_about
 
 # image for page specific usage
-img: ":lab_logo_nlp.png"
+# img: ":lab_logo_nlp.png"
 # publish date (used for seo)
 # if not specified, site.time will be used.
 #date: 2022-03-03 12:32:00 +0000
 
 # for override items in _data/lang/[language].yml
-#title: My title
+# title: Members at Arase Lab
 #button_name: "My button"
 # for override side_and_top_nav_buttons in _data/conf/main.yml
 #icon: "fa fa-bath"
@@ -38,20 +38,23 @@ img: ":lab_logo_nlp.png"
 
 {%- comment -%} Please place your page content here {%- endcomment -%}
 
-# Staff
+### Staff
 
-**Yuki Arase**, Professor, [web](https://yukiar.github.io/)
+**Yuki Arase**, Professor &ensp;<a href="mailto:arase@c.titech.ac.jp"><i class="fa fa-envelope" aria-hidden="true"></i></a>&ensp;<a href="https://yukiar.github.io/" target="_blank" rel="noopener noreferrer"><i class="fa fa-globe" aria-hidden="true"></i></a>&ensp;<a href="https://github.com/yukiar" target="_blank" rel="noopener noreferrer"><i class="fa fa-github" aria-hidden="true"></i></a>&ensp;<a href="https://twitter.com/Yuki_arase" target="_blank" rel="noopener noreferrer"><i class="fa fa-twitter" aria-hidden="true"></i></a>
 
 
-# Collaborator
-- **Satoru Uchida**, Kyusyu University, [web](http://flc.kyushu-u.ac.jp/~uchida/)
-- **Tomoyuki Kajiwara**, Ehime University, [web](https://sites.google.com/site/moguranosenshi/)
+### Collaborator
+- **Satoru Uchida**, Kyusyu University &ensp;<a href="http://flc.kyushu-u.ac.jp/~uchida/" target="_blank" rel="noopener noreferrer"><i class="fa fa-globe" aria-hidden="true"></i></a>
+- **Tomoyuki Kajiwara**, Ehime University &ensp;<a href="https://sites.google.com/site/moguranosenshi/" target="_blank" rel="noopener noreferrer"><i class="fa fa-globe" aria-hidden="true"></i></a>
+- **Sho Yokoi**, Tohoku University &ensp;<a href="https://www.cl.ecei.tohoku.ac.jp/~yokoi/" target="_blank" rel="noopener noreferrer"><i class="fa fa-globe" aria-hidden="true"></i></a>
+- **Han Bao**, Kyoto University &ensp;<a href="https://hermite.jp/" target="_blank" rel="noopener noreferrer"><i class="fa fa-globe" aria-hidden="true"></i></a>
+- **Keisuke Sakaguchi**, Tohoku University &ensp;<a href="https://keisuke-sakaguchi.github.io/" target="_blank" rel="noopener noreferrer"><i class="fa fa-globe" aria-hidden="true"></i></a>
 
-# PhD
+### PhD
 - **Xuanxin Wu**, D2 (Osaka University)
 - **Guanting Luo**, D1 (Osaka University)
 
-# Master & Undergrad
+### Master & Undergrad
 - **Yuya Ogasa**, M2 (Osaka University)
 - **Ryota Miyano**, M2 (Osaka University)
 - **Martyna Klaudia Gruszka**, B4

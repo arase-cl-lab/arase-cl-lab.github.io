@@ -195,6 +195,8 @@ side_and_top_nav_buttons:
     icon: "fa fa-users"
   - opening:
     icon: "fa fa-graduation-cap"
+  - access:
+    icon: "fa fa-map-marker"
   - archives:
     icon: "fa fa-archive"
   - links:

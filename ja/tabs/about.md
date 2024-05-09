@@ -4,13 +4,13 @@ layout: about
 lng_pair: id_about
 
 # image for page specific usage
-img: ":lab_logo_nlp.png"
+# img: ":lab_logo_nlp.png"
 # publish date (used for seo)
 # if not specified, site.time will be used.
-#date: 2022-03-03 12:32:00 +0000
+# date: 2022-03-03 12:32:00 +0000
 
 # for override items in _data/lang/[language].yml
-#title: My title
+# title: Members at Arase Lab
 #button_name: "My button"
 # for override side_and_top_nav_buttons in _data/conf/main.yml
 #icon: "fa fa-bath"
@@ -38,19 +38,22 @@ img: ":lab_logo_nlp.png"
 
 {%- comment -%} Please place your page content here {%- endcomment -%}
 
-# スタッフ
-**荒瀬 由紀**, 教授, [web](https://yukiar.github.io/)
+### スタッフ
+**荒瀬 由紀**, 教授 &ensp;<a href="mailto:arase@c.titech.ac.jp"><i class="fa fa-envelope" aria-hidden="true"></i></a>&ensp;<a href="https://yukiar.github.io/" target="_blank" rel="noopener noreferrer"><i class="fa fa-globe" aria-hidden="true"></i></a>&ensp;<a href="https://github.com/yukiar" target="_blank" rel="noopener noreferrer"><i class="fa fa-github" aria-hidden="true"></i></a>&ensp;<a href="https://twitter.com/Yuki_arase" target="_blank" rel="noopener noreferrer"><i class="fa fa-twitter" aria-hidden="true"></i></a>
 
 
-# 共同研究者
-- **内田 諭**, 九州大学, [web](http://flc.kyushu-u.ac.jp/~uchida/)
-- **梶原 智之**, 愛媛大学, [web](https://sites.google.com/site/moguranosenshi/)
+### 共同研究者
+- **内田 諭**, 九州大学 &ensp;<a href="http://flc.kyushu-u.ac.jp/~uchida/" target="_blank" rel="noopener noreferrer"><i class="fa fa-globe" aria-hidden="true"></i></a>
+- **梶原 智之**, 愛媛大学  &ensp;<a href="https://sites.google.com/site/moguranosenshi/" target="_blank" rel="noopener noreferrer"><i class="fa fa-globe" aria-hidden="true"></i></a>
+- **横井 祥**, 東北大学 &ensp;<a href="https://www.cl.ecei.tohoku.ac.jp/~yokoi/index_ja.html" target="_blank" rel="noopener noreferrer"><i class="fa fa-globe" aria-hidden="true"></i></a>
+- **包 含**, 京都大学 &ensp;<a href="https://hermite.jp/" target="_blank" rel="noopener noreferrer"><i class="fa fa-globe" aria-hidden="true"></i></a>
+- **坂口 慶祐**, 東北大学 &ensp;<a href="https://keisuke-sakaguchi.github.io/" target="_blank" rel="noopener noreferrer"><i class="fa fa-globe" aria-hidden="true"></i></a>
 
-# 博士学生
-- **Xuanxin WU**, D2 (大阪大学)
+### 博士学生
+- **Xuanxin Wu**, D2 (大阪大学)
 - **Guanting Luo**, D1 (大阪大学)
 
-# 修士学生・学部生
+### 修士学生・学部生
 - **小笠 雄也**, M2 (大阪大学)
 - **宮野 稜大**, M2 (大阪大学)
 - **Martyna Klaudia Gruszka**, B4

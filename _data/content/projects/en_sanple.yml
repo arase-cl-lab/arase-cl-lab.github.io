@@ -4,8 +4,8 @@
 ###########################################################
 page_data:
   main:
-    header: "Research Projects"
-    info: "Research projects in Arase Lab"
+    header: ""
+    info: ""
     text_color: "white"
     # if you don't want to use background image, comment it. back_color will be activated.
     img: ":projects-heading.jpg"

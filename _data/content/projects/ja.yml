@@ -4,229 +4,132 @@
 ###########################################################
 page_data:
   main:
-    header: "Projects"
-    info: "荒瀬研で行っている研究プロジェクト"
+    header: "Research Projects"
+    info: "荒瀬研で取り組んでいる研究"
     text_color: "white"
     # if you don't want to use background image, comment it. back_color will be activated.
-    img: ":projects-heading.jpg"
+    # img: ":projects-heading.jpg"
     back_color: "lightblue"
 
   category:
-    - title: "例"
-      type: id_example
-      color: "gray"
-    - title: "写真"
-      type: id_picture
+    - title: "意味の類似性"
+      type: id_alignment
+      color: "#6fa8dc"
+    - title: "言語学習支援"
+      type: id_call
+      color: "#F4A273"
+    - title: "医療言語処理"
+      type: id_mednlp
       color: "#62b462"
-    - title: "名言"
-      type: id_quote
-      color: "#2FD0ED"
+    - title: "LLM評価"
+      type: id_llmeval
+      color: "#ea9999"
+
 
   list:
-    # example
-    - type: id_example
-      project_name: "サンプルプロジェクト"
-      project_excerpt: "例"
-      img: ":project1_thumb.jpg"
-      img_title: "img title1"
-      date: "2021-03-13"
+###############
+    - type: id_alignment
+      project_name: "意味の類似性"
+      project_excerpt: "Semantic textual similarity"
+#      img: ":project1_thumb.jpg"
+#      img_title: "img title1"
+      date: "2024-04-01"
       post: |
-        # Examples
+        2つのテキスト間の意味の類似性を推定する技術を研究しています。意味の類似性判定は検索や質問応答、対話システムなど様々な言語処理を支える基礎技術です。
+        使われる語や文法的な構造は異なるのに意味が似た表現を**言い換え表現**といいますが、このような言い換え表現の認識、生成する技術を開発しています。
+        またテキスト間で意味が一致する語や句を自動推定する**アラインメント**技術も研究しています。
 
-        This is an example page to display markdown related styles for Mr. Green Jekyll Theme.
+        ### キーワード
+        - 言い換え表現
+        - 単語・句アラインメント
 
-        ### Headings (centered)
-        {:data-align="center"}
+        ### 代表的な論文
+        - Y. Arase, H. Bao, and S. Yokoi. Unbalanced Optimal Transport for Unbalanced Word Alignment, in Proc. of the Annual Meeting of the Association for Computational Linguistics (ACL 2023), pp. 3966–3986 (July 2023).
+        - S. Kadotani and Y. Arase. Monolingual Phrase Alignment as Parse Forest Mapping, in Proc. of the Joint Conference on Lexical and Computational Semantics (*SEM 2023), pp. 449–455 (July 2023).
+        - 吉仲 真人, 梶原 智之, 荒瀬 由紀. 単語分散表現に基づく単一言語内フレーズアラインメント. 自然言語処理 Vol. 28, No. 2, pp. 508-531 (2021年6月).
+        - Y. Arase and J. Tsujii. Compositional Phrase Alignment and Beyond, in Proc. of Conference on Empirical Methods in Natural Language Processing (EMNLP 2020), pp. 1611-1623 (Nov. 2020).
+        - Y. Arase and J. Tsujii. Transfer Fine-Tuning: A BERT Case Study, in Proc. of Conference on Empirical Methods in Natural Language Processing (EMNLP2019), pp. 5393-5404 (Nov. 2019).
 
-        # Heading 1
-
-        ## Heading 2
-
-        ### Heading 3
-
-        #### Heading 4
-
-        ##### Heading 5
-
-        ###### Heading 6
-
-        ***
-
-        ### Paragraphs
-
-        #### Paragraph
-
-        **William Shakespeare**, Let me not to the marriage of true minds
-        Admit impediments. Love is not love
-        Which alters when it alteration finds,
-        Or bends with the remover to remove.
-        O no, it is an ever-fixed mark
-        That looks on tempests and is never shaken;
-        It is the star to every wand'ring barque,
-        Whose worth's unknown, although his height be taken.
-        Love's not Time's fool, though rosy lips and cheeks
-        Within his bending sickle's compass come;
-        Love alters not with his brief hours and weeks,
-        But bears it out even to the edge of doom.
-        If this be error and upon me proved,
-        I never writ, nor no man ever loved.
-
-        #### Texts
-
-        Quoted text `Hello world`
-
-        Bold text **Hello world**
-
-        Italic text _Hello world_
-
-        kbd text <kbd>Hello world</kbd>
-
-        #### Blockquote
-
-        > **William Shakespeare**, Let me not to the marriage of true minds
-        Admit impediments. Love is not love
-        Which alters when it alteration finds,
-        Or bends with the remover to remove.
-        O no, it is an ever-fixed mark
-        That looks on tempests and is never shaken;
-        It is the star to every wand'ring barque,
-        Whose worth's unknown, although his height be taken.
-        Love's not Time's fool, though rosy lips and cheeks
-        Within his bending sickle's compass come;
-        Love alters not with his brief hours and weeks,
-        But bears it out even to the edge of doom.
-        If this be error and upon me proved,
-        I never writ, nor no man ever loved.
-
-        ### Link
-
-        This is [Mr. Green Jekyll Theme](https://github.com/MrGreensWorkshop/MrGreen-JekyllTheme), a simple theme built for [Jekyll](https://jekyllrb.com/).
-
-        ### Picture
-
-        ![such a lovely place](:projects-heading.jpg)
-
-        ### Picture (centered)
-
-        ![such a lovely place](:project1_thumb.jpg){:data-align="center"}
-
-        ### Lists
-
-        - Apple
-        - Banana
-        - Orange
-
-        1. Fruits
-            1. Apples
-                - Granny Smith
-                - Mutsu
-            1. Bananas
-                - Cavendish
-                - Red
-        1. Vegetables
-
-        ***
-
-        ### Tables
-
-        #### Small Table (centered)
-
-        | Fruits(not aligned) | Alignment (centered) | num (right align) |
-        | ------------------- | :------------------: | ----------------: |
-        | Apple               |       centered       |              9999 |
-        | Banana              |  centered long text  |               999 |
-        | Orange              |       centered       |                99 |
-        | Lemon               |       centered       |                 9 |
-        {:data-align="center"}
-
-        #### Wide Table (centered)
-
-        scroll enabled when page is narrow
-
-        | Fruits | num (left align) | num (right align) | num  | num  | num  |
-        | ------ | :--------------- | ----------------: | ---- | ---- | ---- |
-        | Apple  | 1111             |              1111 | 2222 | 3333 | 4444 |
-        | Banana | 111              |               111 | 222  | 333  | 444  |
-        | Orange | 11               |                11 | 22   | 33   | 44   |
-        | Lemon  | 1                |                 1 | 2    | 3    | 4    |
-        {:data-align="center"}
-
-        #### Wider Table
-
-        scroll enabled when page is narrow
-
-        | Fruits | num (left align) | num (right align) | num  | num  | num  | num  | num  | num  |
-        | ------ | :--------------- | ----------------: | ---- | ---- | ---- | ---- | ---- | ---- |
-        | Apple  | 1111             |              1111 | 2222 | 3333 | 4444 | 5555 | 6666 | 7777 |
-        | Banana | 111              |               111 | 222  | 333  | 444  | 555  | 666  | 777  |
-        | Orange | 11               |                11 | 22   | 33   | 44   | 55   | 66   | 77   |
-        | Lemon  | 1                |                 1 | 2    | 3    | 4    | 5    | 6    | 7    |
-
-        ### Code
-
-        #### Quote
-
-        ```python
-        for i in range(5, 10):
-          print(i)
-        ```
-
-    # picture
-    - type: id_picture
-      project_name: "サンプルプロジェクト"
-      project_excerpt: "写真"
-      img: ":project2_thumb.jpg"
-      img_title: "img title2"
-      date: "2021-04-23"
+################
+    - type: id_call
+      project_name: "言語学習支援"
+      project_excerpt: "Computer Assisted Language Learning (CALL)"
+#      img: ":project1_thumb.jpg"
+#      img_title: "img title1"
+      date: "2024-04-01"
       post: |
-        # Title
-        This is project content.
+        言い換え表現技術を応用して言語学習支援を行うシステムを開発しています。言語学習においてはネイティブ話者の書くオーセンティックな英語、かつ学習者のレベルに適した英文に多量に触れることが効果的ですが、そのような英文は希少です。そこで言い換えによりオーセンティックな英文を様々な難易度に変換するテキスト平易化技術を開発しています。また言語資源構築、英文難易度推定等、言語学習に役立つ様々な技術を研究しています。
 
-        ![Image](:project2_thumb.jpg)
+        ### キーワード
+        - テキスト平易化
+        - 英文難易度推定
+        - 難易度別言い換えコーパス構築
 
-    # quote
-    - type: id_quote
-      project_name: "サンプルプロジェクト"
-      project_excerpt: "William Shakespeare"
-      #img: ":project1_thumb.jpg"
-      #img_title: "img title3"
-      date: "2021-05-27"
+        ### 代表的な論文
+        - R. Miyano, T. Kajiwara, Y. Arase. Self-Ensemble of N-best Generation Hypotheses by Lexically Constrained Decoding, in Proc. of Conference on Empirical Methods in Natural Language Processing (EMNLP 2023), pp. 14653-14661 (Dec. 2023).
+        - 舌 達也, 梶原 智之, 荒瀬 由紀. 編集操作予測に基づく語彙制約付きデコーディングによるテキスト平易化の難易度制御. 自然言語処理 Vol. 30, No. 3, pp. 991–1010 (2023年9月).
+        - Y. Arase, S. Uchida, and T. Kajiwara. CEFR-based Sentence Difficulty Annotation and Assessment, in Proc. of Conference on Empirical Methods in Natural Language Processing (EMNLP 2022), pp. 6206-6219 (Dec. 2022).
+        - H. Huang, T. Kajiwara, and Y. Arase. Definition Modelling for Appropriate Specificity, in Proc. of Conference on Empirical Methods in Natural Language Processing (EMNLP 2021), pp. 2499–2509 (Nov. 2021).
+        - D. Nishihara, T. Kajiwara, and Y. Arase. Controllable Text Simplification with Lexical Constraint, in Proc. of Annual Meeting of the Association for Computational Linguistics: Student Research Workshop, pp. 260-266, (July 2019).
+
+################
+    - type: id_mednlp
+      project_name: "医療言語処理"
+      project_excerpt: "Medical NLP"
+#      img: ":project1_thumb.jpg"
+#      img_title: "img title1"
+      date: "2024-04-01"
       post: |
-        Let me not to the marriage of true minds
-        Admit impediments. Love is not love
-        Which alters when it alteration finds,
-        Or bends with the remover to remove.
-        O no, it is an ever-fixed mark
-        That looks on tempests and is never shaken;
-        It is the star to every wand'ring barque,
-        Whose worth's unknown, although his height be taken.
-        Love's not Time's fool, though rosy lips and cheeks
-        Within his bending sickle's compass come;
-        Love alters not with his brief hours and weeks,
-        But bears it out even to the edge of doom.
-        If this be error and upon me proved,
-        I never writ, nor no man ever loved.
-    - type: id_quote
-      project_name: "サンプルプロジェクト"
-      project_excerpt: "Albert Einstein"
-      img: ":project2_thumb.jpg"
-      img_title: "img title4"
-      date: "2021-06-08"
+        医療の現場ではカルテ、看護記録、検査レポートなど膨大な記録作業が日々行われていますが、その多くが非構造化テキストです。そのためテキストデータは存在するにも関わらず、治療や検査の経過を把握したり集約して知識として再利用するには多くの時間を要します。この現状を打破し、医療従事者の貴重な時間を有効活用できよう医療文書処理技術を開発しています。
+
+        ### キーワード
+        - 医療言語処理
+        - 要約
+        - 知識抽出
+
+        ### 代表的な論文
+        - S. Ohashi, J. Takayama, T. Kajiwara, and Y. Arase. Distinct Label Representations for Few-Shot Text Classification, in Proc. of the Annual Meeting of the Association for Computational Linguistics and International Joint Conference on Natural Language Processing (ACL-IJCNLP 2021), pp. 831-836 (Aug. 2021).
+        - S. Ohashi, J. Takayama, T. Kajiwara, C. Chu, Y. Arase. Text Classification with Negative Supervision, in Proc. of Annual Meeting of the Association for Computational Linguistics (ACL 2020), pp. 351–357 (July 2020).
+        - Y. Arase, T. Kajiwara, and C. Chu. Annotation of Adverse Drug Reactions in Patients' Weblogs, in Proc. of International Conference on Language Resources and Evaluation (LREC 2020), pp. 6769–6776 (May 2020).
+
+################
+    - type: id_llmeval
+      project_name: "大規模言語モデルの評価"
+      project_excerpt: "LLM Misalignment"
+#      img: ":project1_thumb.jpg"
+#      img_title: "img title1"
+      date: "2024-04-01"
       post: |
-        Two things are infinite: the universe and human stupidity; and I'm not sure about the universe.
-    - type: id_quote
-      project_name: "サンプルプロジェクト"
-      project_excerpt: "Mae West"
-      img: ":project1_thumb.jpg"
-      img_title: "img title5"
-      date: "2021-08-20"
-      post: |
-        You only live once, but if you do it right, once is enough.
-    - type: id_quote
-      project_name: "サンプルプロジェクト"
-      project_excerpt: "Mahatma Gandhi "
-      img: ":project2_thumb.jpg"
-      img_title: "img title6"
-      date: "2021-12-20"
-      post: |
-        Be the change that you wish to see in the world.
+        大規模言語モデルは言語処理技術を大きく向上し、情報処理基盤として広く社会に浸透するに至りました。しかしハルシネーションや敵対的プロンプトによる偽情報の生成、社会的バイアスの助長など多くの問題を内包しています。それにも関わらず、このような大規模言語モデルによる人間や社会に許容されない振る舞い (ミスアラインメント) を評価する基盤が整っていないのが現状です。本プロジェクトではミスアラインメントを包括的に検出・評価する技術を開発します。
+
+        2024年度開始の新プロジェクトです。
+
+        ### キーワード
+        - 大規模言語モデル (LLMs)
+        - ミスアラインメント
+        - 偽情報
+        - ハルシネーション
+
+#        ### 代表的な論文
+#        -
+#        -
+#        -
+
+####### Template #########
+#    - type: id_xxx
+#      project_name: "xxx"
+#      project_excerpt: "xxx"
+##      img: ":project1_thumb.jpg"
+##      img_title: "img title1"
+#      date: "2024-04-01"
+#      post: |
+#
+#        ### キーワード
+#        -
+#        -
+#        -
+#
+#        ### 代表的な論文
+#        -
+#        -
+#        -

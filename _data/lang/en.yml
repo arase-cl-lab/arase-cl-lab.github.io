@@ -171,6 +171,10 @@ opening:
   button_name: Opening
   email_title: email
 
+# for access layout
+access:
+  title: Access
+  button_name: Access
 
 # for privacy-policy layout
 privacy-policy:
