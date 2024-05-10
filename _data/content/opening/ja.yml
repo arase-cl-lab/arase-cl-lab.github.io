@@ -35,16 +35,15 @@ page_data:
 #      img_title: "img title1"
       date: "2024-04-01"
       post: |
-        以下の研究プロジェクトで研究員（特任助教・研究員）を募集しています。研究内容は [Projects Page](https://arase-cl-lab.c.titech.ac.jp/ja/tabs/projects.html) を参照してください。
+        以下の研究プロジェクトで研究員（特任助教・研究員）を募集しています。研究内容は [Projects](https://arase-cl-lab.c.titech.ac.jp/ja/tabs/projects.html) を参照してください。
 
         ### 医療言語処理
-        ##### トピック
         - 医療文書の要約技術
         - ドメイン適応技術
+        - データ拡張
         - 医療LLM構築・評価
 
         ### LLM評価
-        ##### トピック
         - ミスアラインメント評価のためのデータセット構築
         - ミスアラインメント検出手法
         - ミスアラインメントの評価指標

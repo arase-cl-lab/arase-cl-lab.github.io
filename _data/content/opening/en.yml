@@ -34,21 +34,20 @@ page_data:
 #      img_title: "img title1"
       date: "2024-04-01"
       post: |
-        The following projects are looking for postdocs. Please refer to [Projects Page](https://arase-cl-lab.c.titech.ac.jp/tabs/projects.html) for details.
+        The following projects are actively looking for postdocs. Please refer to [Projects](https://arase-cl-lab.c.titech.ac.jp/tabs/projects.html) for details.
 
         ### Medical NLP
-        ##### Topics of Interest
         - Medical document summarization
         - Domain adaptation
+        - Data augmentation
         - Development and evaluation of medical LLMs
 
         ### LLM Evaluation
-        ##### Topics of Interest
         - Dataset creation for misalignment evaluation
         - Misalignment detection
         - Evaluation metrics for misalignment
 
-        ### Application
+        ### Application Procedure
         Please email your resume and list of publications to Yuki Arase.
 
 ################
@@ -59,11 +58,12 @@ page_data:
 #      img_title: "img title1"
       date: "2024-04-01"
       post: |
-        We are looking for PhD students highly motivated to advance NLP/CL technplogy.
-        Please send Yuki Arase your resume, list of publications, and research proposal.
-        For details of admission process, please refer to the <a href="https://www.titech.ac.jp/english/admissions/prospective-students/graduate-programs/igp" target="_blank" rel="noopener noreferrer">TITECH's official addmision page</a>.
+        We are currently seeking highly motivated PhD students who are passionate about advancing NLP/CL technology.
+        If you are interested, please forward your resume, list of publications, and research proposal to Yuki Arase.
 
-        [Note] We do not have positions for visiting/research students prior to the entrance examination.
+        For further information regarding the admission process, please refer to <a href="https://www.titech.ac.jp/english/admissions/prospective-students/graduate-programs/igp" target="_blank" rel="noopener noreferrer">TITECH's official addmision page</a>.
+
+        [Note] Please be advised that we do not have positions available for visiting or research students prior to the entrance examination.
 
 ################
     - type: id_master
@@ -73,11 +73,12 @@ page_data:
 #      img_title: "img title1"
       date: "2024-04-01"
       post: |
-        We are looking for international students highly motivated to advance NLP/CL technplogy.
-        Please send Yuki Arase your resume, list of publications, and research proposal.
-        For details of admission process, please refer to the <a href="https://www.titech.ac.jp/english/admissions/prospective-students/graduate-programs/igp" target="_blank" rel="noopener noreferrer">TITECH's official addmision page</a>.
+        We are actively seeking international students who are deeply motivated to advance NLP/CL technology.
+        If you are interested, kindly submit your resume, list of publications, and research proposal to Yuki Arase.
 
-        [Note] We do not have positions for visiting/research students prior to the entrance examination.
+        For details regarding the admission process, please consult <a href="https://www.titech.ac.jp/english/admissions/prospective-students/graduate-programs/igp" target="_blank" rel="noopener noreferrer">TITECH's official addmision page</a>.
+
+        [Note] Please be advised that we do not have positions available for visiting or research students prior to the entrance examination.
 
 ################
     - type: id_undergrad
@@ -87,7 +88,7 @@ page_data:
 #      img_title: "img title1"
       date: "2024-04-01"
       post: |
-        We hold online/phisical open lab events. Please contact Yuki Arase for details.
+        We organize both online and physical open lab events. For further information and details about these events, please get in touch with Yuki Arase.
 
 ####### Template #########
 #    - type: id_xxx

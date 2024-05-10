@@ -45,8 +45,9 @@ img: ":home-heading.jpg"
 
 _Artificial intelligence that can understand, entail, and generate languages at the human level._
 
-**Natural Language Understanding, Paraphrasing, Entailment**
+Our research endeavors in natural language processing and computational linguistics are distinctly focused on the following areas:
+- **Natural Language Understanding, Paraphrasing, Entailment**
+- **Computer Assisted Language Learning**
+- **Medical NLP**
 
-**Computer Assisted Language Learning**
-
-**Medical NLP**
+We are committed to advancing the technology in these domains, contributing to the evolution of language technology.

@@ -8,225 +8,140 @@ page_data:
     info: "Research projects in Arase Lab"
     text_color: "white"
     # if you don't want to use background image, comment it. back_color will be activated.
-    img: ":projects-heading.jpg"
+    # img: ":projects-heading.jpg"
     back_color: "lightblue"
 
   category:
-    - title: "Example"
-      type: id_example
-      color: "gray"
-    - title: "Picture"
-      type: id_picture
+    - title: "STS"
+      type: id_alignment
+      color: "#6fa8dc"
+    - title: "CALL"
+      type: id_call
+      color: "#F4A273"
+    - title: "Medical NLP"
+      type: id_mednlp
       color: "#62b462"
-    - title: "Quote"
-      type: id_quote
-      color: "#2FD0ED"
-
+    - title: "LLM Evaluation"
+      type: id_llmeval
+      color: "#ea9999"
   list:
-    # example
-    - type: id_example
-      project_name: "Example Project"
-      project_excerpt: "Examples"
-      img: ":project1_thumb.jpg"
-      img_title: "img title1"
-      date: "2021-03-13"
+    ###############
+    - type: id_alignment
+      project_name: "Semantic Textual Similarity Estimation through Alignment"
+      project_excerpt: "STS"
+      #      img: ":project1_thumb.jpg"
+      #      img_title: "img title1"
+      date: "2024-04-01"
       post: |
-        # Examples
+        Measuring the similarity between two texts serves as a core technology in NLP, forming the foundation for various applications including information retrieval, question answering, and conversational systems.
+        Our primary emphasis lies in paraphrasing, which represent an equivalent meaning through diverse wordings and structures.
+        We are dedicated to advancing paraphrase recognition and generation models, with a particular focus on the significance of word and phrase alignment.
+        This approach elucidates the rationale behind why two expressions convey the same meaning, enriching our understanding of meaning composition.
 
-        This is an example page to display markdown related styles for Mr. Green Jekyll Theme.
+        ### Keywords
+        - Paraphrase
+        - Entailment
+        - Word and phrase alignment
 
-        ### Headings (centered)
-        {:data-align="center"}
+        ### Selected Publications
+        - Y. Arase, H. Bao, and S. Yokoi. Unbalanced Optimal Transport for Unbalanced Word Alignment, in Proc. of the Annual Meeting of the Association for Computational Linguistics (ACL 2023), pp. 3966–3986 (July 2023).
+        - S. Kadotani and Y. Arase. Monolingual Phrase Alignment as Parse Forest Mapping, in Proc. of the Joint Conference on Lexical and Computational Semantics (*SEM 2023), pp. 449–455 (July 2023).
+        - J. Takayama, T. Kajiwara, and Y. Arase. DIRECT: Direct and Indirect Responses in Conversational Text Corpus, in Findings of the Association for Computational Linguistics: EMNLP 2021, pp. 1980–1989 (Nov. 2021).
+        - Y. Arase and J. Tsujii. Compositional Phrase Alignment and Beyond, in Proc. of Conference on Empirical Methods in Natural Language Processing (EMNLP 2020), pp. 1611-1623 (Nov. 2020).
+        - Y. Arase and J. Tsujii. Transfer Fine-Tuning: A BERT Case Study, in Proc. of Conference on Empirical Methods in Natural Language Processing (EMNLP2019), pp. 5393-5404 (Nov. 2019).
+        - Y. Arase and J. Tsujii. Monolingual Phrase Alignment on Parse Forests, in Proc. of Conference on Empirical Methods in Natural Language Processing (EMNLP 2017), pp. 1-11 (Sept. 2017).
 
-        # Heading 1
-
-        ## Heading 2
-
-        ### Heading 3
-
-        #### Heading 4
-
-        ##### Heading 5
-
-        ###### Heading 6
-
-        ***
-
-        ### Paragraphs
-
-        #### Paragraph
-
-        **William Shakespeare**, Let me not to the marriage of true minds
-        Admit impediments. Love is not love
-        Which alters when it alteration finds,
-        Or bends with the remover to remove.
-        O no, it is an ever-fixed mark
-        That looks on tempests and is never shaken;
-        It is the star to every wand'ring barque,
-        Whose worth's unknown, although his height be taken.
-        Love's not Time's fool, though rosy lips and cheeks
-        Within his bending sickle's compass come;
-        Love alters not with his brief hours and weeks,
-        But bears it out even to the edge of doom.
-        If this be error and upon me proved,
-        I never writ, nor no man ever loved.
-
-        #### Texts
-
-        Quoted text `Hello world`
-
-        Bold text **Hello world**
-
-        Italic text _Hello world_
-
-        kbd text <kbd>Hello world</kbd>
-
-        #### Blockquote
-
-        > **William Shakespeare**, Let me not to the marriage of true minds
-        Admit impediments. Love is not love
-        Which alters when it alteration finds,
-        Or bends with the remover to remove.
-        O no, it is an ever-fixed mark
-        That looks on tempests and is never shaken;
-        It is the star to every wand'ring barque,
-        Whose worth's unknown, although his height be taken.
-        Love's not Time's fool, though rosy lips and cheeks
-        Within his bending sickle's compass come;
-        Love alters not with his brief hours and weeks,
-        But bears it out even to the edge of doom.
-        If this be error and upon me proved,
-        I never writ, nor no man ever loved.
-
-        ### Link
-
-        This is [Mr. Green Jekyll Theme](https://github.com/MrGreensWorkshop/MrGreen-JekyllTheme), a simple theme built for [Jekyll](https://jekyllrb.com/).
-
-        ### Picture
-
-        ![such a lovely place](:projects-heading.jpg)
-
-        ### Picture (centered)
-
-        ![such a lovely place](:project1_thumb.jpg){:data-align="center"}
-
-        ### Lists
-
-        - Apple
-        - Banana
-        - Orange
-
-        1. Fruits
-            1. Apples
-                - Granny Smith
-                - Mutsu
-            1. Bananas
-                - Cavendish
-                - Red
-        1. Vegetables
-
-        ***
-
-        ### Tables
-
-        #### Small Table (centered)
-
-        | Fruits(not aligned) | Alignment (centered) | num (right align) |
-        | ------------------- | :------------------: | ----------------: |
-        | Apple               |       centered       |              9999 |
-        | Banana              |  centered long text  |               999 |
-        | Orange              |       centered       |                99 |
-        | Lemon               |       centered       |                 9 |
-        {:data-align="center"}
-
-        #### Wide Table (centered)
-
-        scroll enabled when page is narrow
-
-        | Fruits | num (left align) | num (right align) | num  | num  | num  |
-        | ------ | :--------------- | ----------------: | ---- | ---- | ---- |
-        | Apple  | 1111             |              1111 | 2222 | 3333 | 4444 |
-        | Banana | 111              |               111 | 222  | 333  | 444  |
-        | Orange | 11               |                11 | 22   | 33   | 44   |
-        | Lemon  | 1                |                 1 | 2    | 3    | 4    |
-        {:data-align="center"}
-
-        #### Wider Table
-
-        scroll enabled when page is narrow
-
-        | Fruits | num (left align) | num (right align) | num  | num  | num  | num  | num  | num  |
-        | ------ | :--------------- | ----------------: | ---- | ---- | ---- | ---- | ---- | ---- |
-        | Apple  | 1111             |              1111 | 2222 | 3333 | 4444 | 5555 | 6666 | 7777 |
-        | Banana | 111              |               111 | 222  | 333  | 444  | 555  | 666  | 777  |
-        | Orange | 11               |                11 | 22   | 33   | 44   | 55   | 66   | 77   |
-        | Lemon  | 1                |                 1 | 2    | 3    | 4    | 5    | 6    | 7    |
-
-        ### Code
-
-        #### Quote
-
-        ```python
-        for i in range(5, 10):
-          print(i)
-        ```
-
-    # picture
-    - type: id_picture
-      project_name: "Example Project"
-      project_excerpt: "Picture"
-      img: ":project2_thumb.jpg"
-      img_title: "img title2"
-      date: "2021-04-23"
+    ################
+    - type: id_call
+      project_name: "Computer Assisted Language Learning"
+      project_excerpt: "CALL"
+      #      img: ":project1_thumb.jpg"
+      #      img_title: "img title1"
+      date: "2024-04-01"
       post: |
-        # Title
-        This is project content.
+        We employ paraphrasing techniques to construct a system to aid language learning and education.
+        In language learning, abundant exposure to authentic English texts authored by native speakers, tailored to learners' proficiency levels, is crucial.
+        However, such texts are often scarce.
+        To tackle this challenge, we are developing text simplification methods capable of transforming advanced texts (written by native speakers) into simpler versions.
+        Additionally, we are creating language resources for CALL and developing models for automatic difficulty prediction.
 
-        ![Image](:project2_thumb.jpg)
+        ### Keywords
+        - Text simplification
+        - Difficulty (level) assessment
+        - Language resource creation
 
-    # quote
-    - type: id_quote
-      project_name: "Example Project"
-      project_excerpt: "William Shakespeare"
-      #img: ":project1_thumb.jpg"
-      #img_title: "img title3"
-      date: "2021-05-27"
+        ### Selected Publications
+        - X. Wu and Y. Arase. An In-depth Evaluation of GPT-4 in Sentence Simplification with Error-based Human Assessment. arXiv:2403.04963.
+        - R. Miyano, T. Kajiwara, Y. Arase. Self-Ensemble of N-best Generation Hypotheses by Lexically Constrained Decoding, in Proc. of Conference on Empirical Methods in Natural Language Processing (EMNLP 2023), pp. 14653-14661 (Dec. 2023).
+        - Y. Arase, S. Uchida, and T. Kajiwara. CEFR-based Sentence Difficulty Annotation and Assessment, in Proc. of Conference on Empirical Methods in Natural Language Processing (EMNLP 2022), pp. 6206-6219 (Dec. 2022).
+        - H. Huang, T. Kajiwara, and Y. Arase. Definition Modelling for Appropriate Specificity, in Proc. of Conference on Empirical Methods in Natural Language Processing (EMNLP 2021), pp. 2499–2509 (Nov. 2021).
+        - D. Nishihara, T. Kajiwara, and Y. Arase. Controllable Text Simplification with Lexical Constraint, in Proc. of Annual Meeting of the Association for Computational Linguistics: Student Research Workshop, pp. 260-266, (July 2019).
+
+    ################
+    - type: id_mednlp
+      project_name: "NLP for Medical Documents"
+      project_excerpt: "Medical NLP"
+      #      img: ":project1_thumb.jpg"
+      #      img_title: "img title1"
+      date: "2024-04-01"
       post: |
-        Let me not to the marriage of true minds
-        Admit impediments. Love is not love
-        Which alters when it alteration finds,
-        Or bends with the remover to remove.
-        O no, it is an ever-fixed mark
-        That looks on tempests and is never shaken;
-        It is the star to every wand'ring barque,
-        Whose worth's unknown, although his height be taken.
-        Love's not Time's fool, though rosy lips and cheeks
-        Within his bending sickle's compass come;
-        Love alters not with his brief hours and weeks,
-        But bears it out even to the edge of doom.
-        If this be error and upon me proved,
-        I never writ, nor no man ever loved.
-    - type: id_quote
-      project_name: "Example Project"
-      project_excerpt: "Albert Einstein"
-      img: ":project2_thumb.jpg"
-      img_title: "img title4"
-      date: "2021-06-08"
+        Medical practitioners spend a significant amount of time in writing textual records, including medical and nursing reports, examination findings, and more.
+        Yet, the majority of these documents remain unstructured, posing challenges for effective and efficient reuse.
+        In response to this issue, our project focuses on developing technologies to intelligently process medical texts.
+        By facilitating their effective use, we aim to enhance the quality of medical care.
+
+        ### Keywords
+        - Medical NLP
+        - Summarization
+        - Domain adaptation
+        - Data augmentation
+
+        ### Selected Publications
+        - S. Ohashi, J. Takayama, T. Kajiwara, and Y. Arase. Distinct Label Representations for Few-Shot Text Classification, in Proc. of the Annual Meeting of the Association for Computational Linguistics and International Joint Conference on Natural Language Processing (ACL-IJCNLP 2021), pp. 831-836 (Aug. 2021).
+        - S. Ohashi, J. Takayama, T. Kajiwara, C. Chu, Y. Arase. Text Classification with Negative Supervision, in Proc. of Annual Meeting of the Association for Computational Linguistics (ACL 2020), pp. 351–357 (July 2020).
+        - Y. Arase, T. Kajiwara, and C. Chu. Annotation of Adverse Drug Reactions in Patients' Weblogs, in Proc. of International Conference on Language Resources and Evaluation (LREC 2020), pp. 6769–6776 (May 2020).
+
+    ################
+    - type: id_llmeval
+      project_name: "Evaluation of LLM Misalignment"
+      project_excerpt: "LLM Evaluation"
+      #      img: ":project1_thumb.jpg"
+      #      img_title: "img title1"
+      date: "2024-04-01"
       post: |
-        Two things are infinite: the universe and human stupidity; and I'm not sure about the universe.
-    - type: id_quote
-      project_name: "Example Project"
-      project_excerpt: "Mae West"
-      img: ":project1_thumb.jpg"
-      img_title: "img title5"
-      date: "2021-08-20"
-      post: |
-        You only live once, but if you do it right, once is enough.
-    - type: id_quote
-      project_name: "Example Project"
-      project_excerpt: "Mahatma Gandhi "
-      img: ":project2_thumb.jpg"
-      img_title: "img title6"
-      date: "2021-12-20"
-      post: |
-        Be the change that you wish to see in the world.
+        [New project starting in 2024]
+
+        LLMs have dramatically advanced language processing and have widely accepted by society as fundamental information technologies.
+        However, despite their widespread adoption, these LLMs are not flawless; issues such as hallucinations, adversarial use for disinformation generation, and the amplification of social biases are well-documented concerns.
+        In order to ensure the healthy and safe use of LLMs, it is imperative to identify and rectify such misalignments.
+        This project aims to develop technology capable of systematically detecting and evaluating misalignments in LLMs.
+
+        ### Keywords
+        - Large language models (LLMs)
+        - Misalignment
+        - Disinformation
+        - Hallucination
+
+  #        ### Selected Publications
+  #        -
+  #        -
+  #        -
+
+  ####### Template #########
+  #    - type: id_xxx
+  #      project_name: "xxx"
+  #      project_excerpt: "xxx"
+  ##      img: ":project1_thumb.jpg"
+  ##      img_title: "img title1"
+  #      date: "2024-04-01"
+  #      post: |
+  #
+  #        ### Keywords
+  #        -
+  #        -
+  #        -
+  #
+  #        ### Selected Publications
+  #        -
+  #        -
+  #        -
