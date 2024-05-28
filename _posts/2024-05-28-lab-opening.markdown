@@ -1,7 +1,7 @@
 ---
 # multilingual page pair id, this must pair with translations of this page. (This name must be unique)
-lng_pair: id_lab-launch
-title: Arase Lab Launched at TITECH
+lng_pair: id_open_lab_202405
+title: Lab opening events（May, June 2024）
 
 # post specific
 # if not specified, .name will be used from _data/owner/[language].yml
@@ -16,7 +16,7 @@ tags: [news]
 comments_disable: true
 
 # publish date
-date: 2024-5-28 15:45:00 +0900
+date: 2024-05-28 15:45:00 +0900
 
 # seo
 # if not specified, date will be used.
