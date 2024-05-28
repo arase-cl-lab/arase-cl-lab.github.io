@@ -16,7 +16,7 @@ img: ":post_pic1.jpg"
 comments_disable: open_lab
 
 # publish date
-date: 2024-05-28 16:00:00 +0900
+date: 2024-05-28 15:45:00 +0900
 
 # seo
 # if not specified, date will be used.
