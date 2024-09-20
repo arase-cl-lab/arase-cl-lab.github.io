@@ -43,6 +43,6 @@ date: 2024-05-28 15:45:00 +0900
 
 Our paper has been accepted by EMNLP2024 Findings! 
 
-Zetsu, Arase, Kajiwara. Edit-Constrained Decoding for Sentence Simplification.
+T. Zetsu, Y. Arase, and T. Kajiwara. Edit-Constrained Decoding for Sentence Simplification, in EMNLP 2024 Findings (Nov. 2024 to appear).
 
 Lexically constrained decoding is useful to control text generations; however, appropriate design for negative constraints has not been well explored. This paper discusses that a naive design may result in a degenerate generation. To address this issue, we proposed edit-operation constraints and their satisfaction constraints for text simplification.

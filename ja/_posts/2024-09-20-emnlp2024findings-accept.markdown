@@ -43,6 +43,6 @@ date: 2024-05-28 15:45:00 +0900
 
 卒業生の舌さんの論文がEMNLP2024 Findings に採択されました。
 
-Zetsu, Arase, Kajiwara. Edit-Constrained Decoding for Sentence Simplification.
+T. Zetsu, Y. Arase, and T. Kajiwara. Edit-Constrained Decoding for Sentence Simplification, in EMNLP 2024 Findings (Nov. 2024 to appear).
 
 語彙制約デコーディングにおける負の制約の満足条件は注意して設計しないと生成を悪化させる場合があり、テキスト平易化に適した編集ベース制約を提案したものです。
