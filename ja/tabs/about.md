@@ -57,6 +57,6 @@ lng_pair: id_about
 - **小笠 雄也**, M2 (大阪大学)
 - **宮野 稜大**, M2 (大阪大学)
 - **Martyna Klaudia Gruszka**, B4
-- **山田 美優**, B4
+- **山田 美優**, B4 &ensp;<a href="https://miyu-y.github.io/template/index.html" target="_blank" rel="noopener noreferrer"><i class="fa fa-globe" aria-hidden="true"></i></a>
 
 

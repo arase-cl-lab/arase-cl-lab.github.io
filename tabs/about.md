@@ -58,4 +58,5 @@ lng_pair: id_about
 - **Yuya Ogasa**, M2 (Osaka University)
 - **Ryota Miyano**, M2 (Osaka University)
 - **Martyna Klaudia Gruszka**, B4
-- **Miyu Yamada**, B4
+- **Miyu Yamada**, B4 &ensp;<a href="https://miyu-y.github.io/template/index.html" target="_blank" rel="noopener noreferrer"><i class="fa fa-globe" aria-hidden="true"></i></a>
+
