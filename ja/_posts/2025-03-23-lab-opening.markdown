@@ -16,7 +16,7 @@ tags: [news]
 comments_disable: true
 
 # publish date
-date: 2025-03-23 16:45:00 +0900
+date: 2025-03-23 16:40:00 +0900
 
 # seo
 # if not specified, date will be used.
