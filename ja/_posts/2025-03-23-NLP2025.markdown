@@ -1,0 +1,53 @@
+---
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+# lng_pair: id_open_lab_202405
+title: 山田美優さんがスポンサー賞を受賞しました
+
+# post specific
+# if not specified, .name will be used from _data/owner/[language].yml
+#author: ""
+# multiple category is not supported
+category: lab
+# multiple tag entries are possible
+tags: [news]
+# thumbnail image for post
+#img: ":post_pic1.jpg"
+# disable comments on this page
+comments_disable: true
+
+# publish date
+date: 2025-03-23 16:00:00 +0900
+
+# seo
+# if not specified, date will be used.
+#meta_modify_date: 2021-08-10 11:32:53 +0900
+# check the meta_common_description in _data/owner/[language].yml
+#meta_description: ""
+
+# optional
+# please use the "image_viewer_on" below to enable image viewer for individual pages or posts (_posts/ or [language]/_posts folders).
+# image viewer can be enabled or disabled for all posts using the "image_viewer_posts: true" setting in _data/conf/main.yml.
+#image_viewer_on: true
+# please use the "image_lazy_loader_on" below to enable image lazy loader for individual pages or posts (_posts/ or [language]/_posts folders).
+# image lazy loader can be enabled or disabled for all posts using the "image_lazy_loader_posts: true" setting in _data/conf/main.yml.
+#image_lazy_loader_on: true
+# exclude from on site search
+#on_site_search_exclude: true
+# exclude from search engines
+#search_engine_exclude: true
+# to disable this page, simply set published: false or delete this file
+#published: false
+---
+
+{%- comment -%} Please delete below and place your page content here {%- endcomment -%}
+
+言語処理学会第31回年次大会 (NLP2025) にてB4 山田美優さんが [PKSHA Technology賞](https://www.anlp.jp/nlp2025/award.html#sponsor) を受賞しました。
+
+山田 美優, 荒瀬 由紀 (科学大): 対照学習を用いたhallucination検出手法
+
+以下の選評をいただきました。
+
+> 大規模言語モデル（LLM）は，私たちの生活に革新をもたらす可能性を秘めていますが，LLMのhallucinationは，ユーザーの信頼を損ない，LLMの社会実装を阻む大きな障壁となっています． 本論文は，このhallucination検出という重要な課題に対し，最新のデータを活用し，対照学習とtriplet lossという埋め込みで確立された手法を応用することで，従来の精度を大幅に向上することを確認しています．特にQAタスクとニュース要約タスクにおいて顕著な成果を示しており，LLMの信頼性向上に大きく貢献する研究と考えました． 本研究の成果は，ユーザーが安心してLLMを利用できる社会の実現を促進するだけでなく，LLMの開発者にとってもhallucinationの抑制に役立つ貴重な知見を提供するものと考え，その社会貢献性への期待を込めて，スポンサー賞に選定いたしました．
+
+おめでとうございます！
+
