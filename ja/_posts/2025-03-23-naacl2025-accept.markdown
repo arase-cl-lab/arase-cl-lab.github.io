@@ -1,7 +1,7 @@
 ---
 # multilingual page pair id, this must pair with translations of this page. (This name must be unique)
 lng_pair: id_naacl2025
-title: Our paper has been accepted by NAACL2025
+title: NAACL2025 に論文が採択されました
 
 # post specific
 # if not specified, .name will be used from _data/owner/[language].yml
@@ -16,7 +16,7 @@ tags: [news]
 comments_disable: true
 
 # publish date
-date: 2025-03-23 16:00:00 +0900
+date: 2025-03-23 15:30:00 +0900
 
 # seo
 # if not specified, date will be used.
