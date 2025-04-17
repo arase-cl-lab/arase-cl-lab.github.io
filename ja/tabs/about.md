@@ -50,13 +50,17 @@ lng_pair: id_about
 - **坂口 慶祐**, 東北大学 &ensp;<a href="https://keisuke-sakaguchi.github.io/" target="_blank" rel="noopener noreferrer"><i class="fa fa-globe" aria-hidden="true"></i></a>
 
 ### 博士学生
-- **Xuanxin Wu**, D2 (大阪大学)
-- **Guanting Luo**, D1 (大阪大学)
+- **Xuanxin Wu**, D3 (大阪大学)
+- **Guanting Luo**, D2 (大阪大学)
+- **Yuanhang Yang**, D1
 
 ### 修士学生・学部生
-- **小笠 雄也**, M2 (大阪大学)
-- **宮野 稜大**, M2 (大阪大学)
-- **Martyna Klaudia Gruszka**, B4
-- **山田 美優**, B4 &ensp;<a href="https://miyu-y.github.io/template/index.html" target="_blank" rel="noopener noreferrer"><i class="fa fa-globe" aria-hidden="true"></i></a>
+- **石倉　　誠也**, M1
+- **Sangjun Han**, M1
+- **田村 聡信**, M1
+- **山田 美優**, M1 &ensp;<a href="https://miyu-y.github.io/template/index.html" target="_blank" rel="noopener noreferrer"><i class="fa fa-globe" aria-hidden="true"></i></a>
+- **小林　秀太郎**, B4
+- **伊藤　晃**, B3
 
-
+### 交換留学生
+- **Elias Bergström Persson**

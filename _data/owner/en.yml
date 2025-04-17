@@ -5,7 +5,7 @@
 brand: "Arase Lab"
 
 # text below the brand name
-brand_sub_text: "TITECH"
+brand_sub_text: "SCIENCE TOKYO"
 
 # used for seo meta post author (if it's not defined in post)
 name: "Yuki Arase"
@@ -46,7 +46,7 @@ creative_commons:
 # seo meta this is needed for each language
 # If meta_description is not defined in front matter, it's created from (post / page) content,
 # if it has no content, this will be used for page description. It is also used in manifest.json
-meta_common_description: "Official website of Arase Lab at Tokyo Institute of Technology."
+meta_common_description: "Official website of Arase Lab at Tokyo Institute of Science Tokyo."
 
 # contact options (side nav bottom and about page)
 # the order of the items will be shown as here.
