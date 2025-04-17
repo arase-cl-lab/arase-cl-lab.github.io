@@ -61,7 +61,7 @@ page_data:
         We are currently seeking highly motivated PhD students who are passionate about advancing NLP/CL technology.
         If you are interested, please forward your resume, list of publications, and research proposal to Yuki Arase.
 
-        For further information regarding the admission process, please refer to <a href="https://www.titech.ac.jp/english/admissions/prospective-students/graduate-programs/igp" target="_blank" rel="noopener noreferrer">TITECH's official addmision page</a>.
+        For further information regarding the admission process, please refer to <a href="https://www.titech.ac.jp/english/admissions/prospective-students/graduate-programs/igp" target="_blank" rel="noopener noreferrer">SCIENCE TOKYO's official admission page</a>.
 
         [Note] Please be advised that we do not have positions available for visiting or research students prior to the entrance examination.
 
@@ -76,14 +76,14 @@ page_data:
         We are actively seeking international students who are deeply motivated to advance NLP/CL technology.
         If you are interested, kindly submit your resume, list of publications, and research proposal to Yuki Arase.
 
-        For details regarding the admission process, please consult <a href="https://www.titech.ac.jp/english/admissions/prospective-students/graduate-programs/igp" target="_blank" rel="noopener noreferrer">TITECH's official addmision page</a>.
+        For details regarding the admission process, please consult <a href="https://www.titech.ac.jp/english/admissions/prospective-students/graduate-programs/igp" target="_blank" rel="noopener noreferrer">SCIENCE TOKYO's official admission page</a>.
 
         [Note] Please be advised that we do not have positions available for visiting or research students prior to the entrance examination.
 
 ################
     - type: id_undergrad
       project_name: "Undergraduates"
-      project_excerpt: "Undergraduates at TITECH"
+      project_excerpt: "Undergraduates at SCIENCE TOKYO"
 #      img: ":project1_thumb.jpg"
 #      img_title: "img title1"
       date: "2024-04-01"
