@@ -51,12 +51,19 @@ lng_pair: id_about
 - **Keisuke Sakaguchi**, Tohoku University &ensp;<a href="https://keisuke-sakaguchi.github.io/" target="_blank" rel="noopener noreferrer"><i class="fa fa-globe" aria-hidden="true"></i></a>
 
 ### PhD
-- **Xuanxin Wu**, D2 (Osaka University)
-- **Guanting Luo**, D1 (Osaka University)
+- **Xuanxin Wu**, D3 (Osaka University)
+- **Guanting Luo**, D2 (Osaka University)
+- **Yuanhang Yang**, D1
 
 ### Master & Undergrad
-- **Yuya Ogasa**, M2 (Osaka University)
-- **Ryota Miyano**, M2 (Osaka University)
-- **Martyna Klaudia Gruszka**, B4
-- **Miyu Yamada**, B4 &ensp;<a href="https://miyu-y.github.io/template/index.html" target="_blank" rel="noopener noreferrer"><i class="fa fa-globe" aria-hidden="true"></i></a>
+- **Seiya Ishikura**, M1
+- **Soshin Tamura**, M1
+- **Sangjun Han**, M1
+- **Miyu Yamada**, M1 &ensp;<a href="https://miyu-y.github.io/template/index.html" target="_blank" rel="noopener noreferrer"><i class="fa fa-globe" aria-hidden="true"></i></a>
+- **Shutaro Kobayashi**, B4
+- **Hikaru Ito**, B3
+
+### Excahnge Student
+- **Elias Bergström Persson**
+
 

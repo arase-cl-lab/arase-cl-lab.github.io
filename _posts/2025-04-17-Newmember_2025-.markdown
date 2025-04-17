@@ -16,7 +16,7 @@ tags: [news]
 comments_disable: true
 
 # publish date
-date: 2025-04-17 20:00:00 +0900
+date: 2025-04-17 21:00:00 +0900
 
 # seo
 # if not specified, date will be used.
@@ -43,9 +43,11 @@ date: 2025-04-17 20:00:00 +0900
 
 The following members have newly joined Arase Laboratory!
 
+D1: Yuanhang Yang 
 M1: Seiya Ishikura 
 M1: Soshin Tamura 
 M1: Sangjun Han 
-D1: Yuanhang Yang 
+B4：Shutaro Kobayashi
+B3：Hikaru Ito
 Exchange student: Elias Bergström Persson
 

@@ -16,7 +16,7 @@ tags: [news]
 comments_disable: true
 
 # publish date
-date: 2025-04-17 20:00:00 +0900
+date: 2025-04-17 21:00:00 +0900
 
 # seo
 # if not specified, date will be used.
@@ -43,10 +43,12 @@ date: 2025-04-17 20:00:00 +0900
 
 以下のメンバーが新たに荒瀬研究室に加わりました！
 
+D1：Yuanhang Yang
 M1：石倉誠也
 M1：田村聡信
 M1：Sangjun Han
-D1：Yuanhang Yang
+B4：小林秀太郎
+B3：伊藤晃
 交換留学生：Elias Bergström Persson
 
 
