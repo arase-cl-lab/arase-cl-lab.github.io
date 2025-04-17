@@ -5,7 +5,7 @@
 brand: "荒瀬研究室"
 
 # text below the brand name
-brand_sub_text: "東京工業大学"
+brand_sub_text: "東京科学大学"
 
 # used for seo meta post author (if it's not defined in post)
 name: "Yuki Arase"
@@ -46,7 +46,7 @@ creative_commons:
 # seo meta this is needed for each language
 # If meta_description is not defined in front matter, it's created from (post / page) content,
 # if it has no content, this will be used for page description. It is also used in manifest.json
-meta_common_description: "東工大荒瀬研究室の公式websiteです。"
+meta_common_description: "科学大荒瀬研究室の公式websiteです。"
 
 # contact options (side nav bottom and about page)
 # the order of the items will be shown as here.
