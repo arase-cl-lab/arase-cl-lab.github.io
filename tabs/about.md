@@ -44,7 +44,7 @@ lng_pair: id_about
 
 
 ### Collaborator
-- **Satoru Uchida**, Kyusyu University &ensp;<a href="http://flc.kyushu-u.ac.jp/~uchida/" target="_blank" rel="noopener noreferrer"><i class="fa fa-globe" aria-hidden="true"></i></a>
+- **Satoru Uchida**, Kyushu University &ensp;<a href="http://flc.kyushu-u.ac.jp/~uchida/" target="_blank" rel="noopener noreferrer"><i class="fa fa-globe" aria-hidden="true"></i></a>
 - **Tomoyuki Kajiwara**, Ehime University &ensp;<a href="https://sites.google.com/site/moguranosenshi/" target="_blank" rel="noopener noreferrer"><i class="fa fa-globe" aria-hidden="true"></i></a>
 - **Sho Yokoi**, Tohoku University &ensp;<a href="https://www.cl.ecei.tohoku.ac.jp/~yokoi/" target="_blank" rel="noopener noreferrer"><i class="fa fa-globe" aria-hidden="true"></i></a>
 - **Han Bao**, Kyoto University &ensp;<a href="https://hermite.jp/" target="_blank" rel="noopener noreferrer"><i class="fa fa-globe" aria-hidden="true"></i></a>
@@ -63,7 +63,7 @@ lng_pair: id_about
 - **Shutaro Kobayashi**, B4
 - **Hikaru Ito**, B3
 
-### Excahnge Student
+### Exchange Student
 - **Elias Bergström Persson**
 
 
