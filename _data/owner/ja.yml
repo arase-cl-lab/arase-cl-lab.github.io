@@ -27,7 +27,7 @@ access:
 
 # if you don't want to add copyright year, comment or leave it blank.
 # the year during which the claimed copyright for the work was first asserted.
-copyright_start_year: "2024"
+copyright_start_year: "2025"
 
 # make sure creative_commons.enable is true in _data/conf/main.yml file
 creative_commons:
@@ -53,9 +53,9 @@ meta_common_description: "東工大荒瀬研究室の公式websiteです。"
 # comment to remove any contact item
 contacts:
   - github: "arase-cl-lab"
-  #- email: ""
+  - email: "arase.lab.nlp@gmail.com"
   #- linkedin: ""
-  #- twitter: ""
+  - twitter: "@AraseLab10916"
   #- mastodon: ""
   #- instagram: ""
   #- youtube: ""
