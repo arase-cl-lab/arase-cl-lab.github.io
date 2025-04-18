@@ -53,7 +53,7 @@ lng_pair: id_about
 ### PhD
 - **Xuanxin Wu**, D3 (Osaka University) &ensp;<a href="https://wuxuanxin.github.io/" target="_blank" rel="noopener noreferrer"><i class="fa fa-globe" aria-hidden="true"></i></a>
 - **Guanting Luo**, D2 (Osaka University)
-- **Yuanhang Yang**, D1
+- **Yuanhang Yang**, D1 &ensp;<a href="https://ysngki.github.io/" target="_blank" rel="noopener noreferrer"><i class="fa fa-globe" aria-hidden="true"></i></a>
 
 ### Master & Undergrad
 - **Seiya Ishikura**, M1

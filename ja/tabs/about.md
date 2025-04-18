@@ -52,7 +52,7 @@ lng_pair: id_about
 ### 博士学生
 - **Xuanxin Wu**, D3 (大阪大学) &ensp;<a href="https://wuxuanxin.github.io/" target="_blank" rel="noopener noreferrer"><i class="fa fa-globe" aria-hidden="true"></i></a>
 - **Guanting Luo**, D2 (大阪大学)
-- **Yuanhang Yang**, D1
+- **Yuanhang Yang**, D1 &ensp;<a href="https://ysngki.github.io/" target="_blank" rel="noopener noreferrer"><i class="fa fa-globe" aria-hidden="true"></i></a>
 
 ### 修士学生・学部生
 - **石倉 誠也**, M1
