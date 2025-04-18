@@ -51,7 +51,7 @@ lng_pair: id_about
 - **Keisuke Sakaguchi**, Tohoku University &ensp;<a href="https://keisuke-sakaguchi.github.io/" target="_blank" rel="noopener noreferrer"><i class="fa fa-globe" aria-hidden="true"></i></a>
 
 ### PhD
-- **Xuanxin Wu**, D3 (Osaka University)
+- **Xuanxin Wu**, D3 (Osaka University) &ensp;<a href="https://wuxuanxin.github.io/" target="_blank" rel="noopener noreferrer"><i class="fa fa-globe" aria-hidden="true"></i></a>
 - **Guanting Luo**, D2 (Osaka University)
 - **Yuanhang Yang**, D1
 
