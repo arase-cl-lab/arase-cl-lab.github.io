@@ -65,5 +65,6 @@ lng_pair: id_about
 
 ### Exchange Student
 - **Elias Bergström Persson**
+- **Guanlin Li**
 
 
