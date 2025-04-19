@@ -57,7 +57,7 @@ lng_pair: id_about
 
 ### Master & Undergrad
 - **Seiya Ishikura**, M1
-- **Soshin Tamura**, M1
+- **Soshin Tamura**, M1 &ensp;<a href="mailto:tamura.soshin@gmail.com"><i class="fa fa-envelope" aria-hidden="true"></i></a>
 - **Sangjun Han**, M1
 - **Miyu Yamada**, M1 &ensp;<a href="https://miyu-y.github.io/template/index.html" target="_blank" rel="noopener noreferrer"><i class="fa fa-globe" aria-hidden="true"></i></a>
 - **Shutaro Kobayashi**, B4
