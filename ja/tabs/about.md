@@ -57,7 +57,7 @@ lng_pair: id_about
 ### 修士学生・学部生
 - **石倉 誠也**, M1
 - **Sangjun Han**, M1
-- **田村 聡信**, M1
+- **田村 聡信**, M1 &ensp;<a href="mailto:tamura.soshin@gmail.com"><i class="fa fa-envelope" aria-hidden="true"></i></a>
 - **山田 美優**, M1 &ensp;<a href="https://miyu-y.github.io/template/index.html" target="_blank" rel="noopener noreferrer"><i class="fa fa-globe" aria-hidden="true"></i></a>
 - **小林 秀太郎**, B4
 - **伊藤 晃**, B3
