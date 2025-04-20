@@ -16,7 +16,7 @@ img: ":post_open_lab_2025_04.jpg"
 comments_disable: true
 
 # publish date
-date: 2025-04-19 20:00:00 +0900
+date: 2025-04-19 19:00:00 +0900
 
 # seo
 # if not specified, date will be used.
