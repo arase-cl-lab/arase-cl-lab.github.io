@@ -1,7 +1,7 @@
 ---
 # multilingual page pair id, this must pair with translations of this page. (This name must be unique)
 lng_pair: id_accepted_paper_2025_05
-title: Our paper has been accepted by international journals and conferences
+title: 当研究室の論文が国際ジャーナルおよび会議にて採択されました
 
 # post specific
 # if not specified, .name will be used from _data/owner/[language].yml
