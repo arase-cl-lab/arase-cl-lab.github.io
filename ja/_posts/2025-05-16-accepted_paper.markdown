@@ -43,9 +43,9 @@ date: 2025-05-16 13:00:00 +0900
 
 当研究室の論文3件が、以下の通りそれぞれの国際会議およびジャーナルに採択されました！
 
-Ryota Miyano and Yuki Arase. Adaptive LoRA Merge with Parameter Pruning for Low-Resource Generation. in ACL2025-Findings.
+- Ryota Miyano and Yuki Arase. Adaptive LoRA Merge with Parameter Pruning for Low-Resource Generation. in ACL2025-Findings.
 
-Xuanxin Wu and Yuki Arase. An In-depth Evaluation of Large Language Models in Sentence Simplification with Error-based Human Assessment. in ACM Transactions on Intelligent Systems and Technology.
+- Xuanxin Wu and Yuki Arase. An In-depth Evaluation of Large Language Models in Sentence Simplification with Error-based Human Assessment. in ACM Transactions on Intelligent Systems and Technology.
 
-Guanting Luo and Yuki Arase. MedSummRAG: Domain-Specific Retrieval for Medical Summarization. in Proceedings of BioNLP workshop.
+- Guanting Luo and Yuki Arase. MedSummRAG: Domain-Specific Retrieval for Medical Summarization. in Proceedings of BioNLP workshop.
 
