@@ -43,7 +43,7 @@ date: 2025-06-26 16:00:00 +0900
 
 M1 Miyu Yamada's paper has been accepted for the ACL 2025 Student Research Workshop!
 
-Miyu Yamada and Yuki Arase, Light-Weight Hallucination Detection using Contrastive Learning for Conditional Text Generation, in ACL2025-Findings.
+Miyu Yamada and Yuki Arase, Light-Weight Hallucination Detection using Contrastive Learning for Conditional Text Generation, in ACL2025-Student Research Workshop.
 
 We propose a lightweight detector that uses contrastive learning for training as a method for detecting hallucinations that does not require internal states or external knowledge of language models.
 
