@@ -64,14 +64,17 @@ lng_pair: id_about
 - **伊藤 晃**, B3
 
 ### 交換留学生
+- **Hui Huang**
 - **Chang Yi-Ning**
 - **Eugene Matsumura**
 
+---
 ### 卒業生・過去の在籍メンバー
-**2025年度：**
+**2025年度**
 - **Elias Bergström Persson (交換留学生)**
 - **Guanlin Li (交換留学生)**
-**2024年度：**
+
+**2024年度**
 - **小笠 雄也 (大阪大学, M2)**
 - **宮野 稜大 (大阪大学, M2)**
 - **Martyna Klaudia Gruszka (B4)**
