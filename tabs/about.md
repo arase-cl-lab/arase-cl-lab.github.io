@@ -57,6 +57,7 @@ lng_pair: id_about
 
 ### Master & Undergrad
 - **Seiya Ishikura**, M1
+- **Tyrone White**, M1
 - **Soshin Tamura**, M1 &ensp;<a href="mailto:tamura.soshin@gmail.com"><i class="fa fa-envelope" aria-hidden="true"></i></a>
 - **Sangjun Han**, M1
 - **Miyu Yamada**, M1 &ensp;<a href="https://miyu-y.github.io/template/index.html" target="_blank" rel="noopener noreferrer"><i class="fa fa-globe" aria-hidden="true"></i></a>
@@ -64,7 +65,15 @@ lng_pair: id_about
 - **Hikaru Ito**, B3
 
 ### Exchange Student
-- **Elias Bergström Persson**
-- **Guanlin Li**
+- **Chang Yi-Ning**
+- **Eugene Matsumura**
 
+### Graduates and Former Members
+**2025年度：**
+- **Elias Bergström Persson (Exchange Student)**
+- **Guanlin Li (Exchange Student)**
+**2024年度：**
+- **Yuya Ogasa (Osaka University, M2)**
+- **Ryodai Miyano (Osaka University, M2)**
+- **Martyna Klaudia Gruszka (B4)**
 
