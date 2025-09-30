@@ -65,14 +65,17 @@ lng_pair: id_about
 - **Hikaru Ito**, B3
 
 ### Exchange Student
+- **Hui Huang**
 - **Chang Yi-Ning**
 - **Eugene Matsumura**
 
+---
 ### Graduates and Former Members
-**2025年度：**
+**2025年度**
 - **Elias Bergström Persson (Exchange Student)**
 - **Guanlin Li (Exchange Student)**
-**2024年度：**
+
+**2024年度**
 - **Yuya Ogasa (Osaka University, M2)**
 - **Ryodai Miyano (Osaka University, M2)**
 - **Martyna Klaudia Gruszka (B4)**
