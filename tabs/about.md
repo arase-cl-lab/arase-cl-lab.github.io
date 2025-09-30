@@ -77,6 +77,6 @@ lng_pair: id_about
 
 **2024年度**
 - **Yuya Ogasa (Osaka University, M2)**
-- **Ryodai Miyano (Osaka University, M2)**
+- **Ryota Miyano (Osaka University, M2)**
 - **Martyna Klaudia Gruszka (B4)**
 
