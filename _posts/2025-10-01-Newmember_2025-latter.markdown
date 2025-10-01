@@ -44,6 +44,8 @@ date: 2025-10-01 9:00:00 +0900
 The following members have newly joined Arase Laboratory!
 
 M1：Tyrone White
+
 Exchange student：Chang Yi-Ning
+
 Exchange student Matsumura
 
