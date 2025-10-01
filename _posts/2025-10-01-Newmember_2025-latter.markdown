@@ -47,5 +47,5 @@ M1：Tyrone White
 
 Exchange student：Chang Yi-Ning
 
-Exchange student Matsumura
+Exchange student：Matsumura
 
