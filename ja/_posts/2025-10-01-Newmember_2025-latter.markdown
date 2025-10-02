@@ -45,7 +45,7 @@ date: 2025-10-01 9:00:00 +0900
  
 M1：Tyrone White
 
-交換留学生：Chang Yi-Ning
+交換留学生：Yi-Ning Chang
 
 交換留学生：Eugene Matsumura
 
