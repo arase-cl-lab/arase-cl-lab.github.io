@@ -45,7 +45,7 @@ The following members have newly joined Arase Laboratory!
 
 M1：Tyrone White
 
-Exchange student：Chang Yi-Ning
+Exchange student：Yi-Ning Chang
 
 Exchange student：Matsumura
 

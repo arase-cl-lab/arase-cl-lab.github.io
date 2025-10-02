@@ -66,7 +66,7 @@ lng_pair: id_about
 
 ### Exchange Student
 - **Hui Huang**
-- **Yi-Ning　Chang**
+- **Yi-Ning Chang**
 - **Eugene Matsumura**
 
 ---
