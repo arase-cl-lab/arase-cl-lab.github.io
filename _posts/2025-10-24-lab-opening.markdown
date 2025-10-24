@@ -41,9 +41,10 @@ date: 2025-10-24 17:00:00 +0900
 
 {%- comment -%} Please place your page content here {%- endcomment -%}
 
-In conjunction with the 2025 Academic Festival, we will hold a laboratory open house on the following date.
+## In conjunction with the 2025 Academic Festival, we will hold a laboratory open house on the following date.
 
 Date and Time: November 2 (Sun), 11:00 AM - 5:00 PM
+
 Location: Tokyo University of Science, Ookayama Campus, West Building 8, 6th Floor
 
 We will provide explanations about our laboratories and the LLM. We hope you can join us!
