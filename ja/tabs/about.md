@@ -64,7 +64,6 @@ lng_pair: id_about
 - **伊藤 晃**, B3
 
 ### 交換留学生
-- **Hui Huang**
 - **Yi-Ning Chang**
 - **Eugene Matsumura**
 
@@ -73,6 +72,7 @@ lng_pair: id_about
 **2025年度**
 - **Guanlin Li (交換留学生)**
 - **Elias Bergström Persson (交換留学生)**
+- **Hui Huang (交換留学生)**
 
 **2024年度**
 - **小笠 雄也 (大阪大学, M2)**

@@ -65,7 +65,6 @@ lng_pair: id_about
 - **Hikaru Ito**, B3
 
 ### Exchange Student
-- **Hui Huang**
 - **Yi-Ning Chang**
 - **Eugene Matsumura**
 
@@ -74,6 +73,7 @@ lng_pair: id_about
 **2025年度**
 - **Guanlin Li (Exchange Student)**
 - **Elias Bergström Persson (Exchange Student)**
+- **Hui Huang (Exchange Student)**
 
 **2024年度**
 - **Yuya Ogasa (Osaka University, M2)**
