@@ -5,16 +5,16 @@
 page_data:
   main:
     header: "Opening Positions"
-    info: "We are recruiting Postdocs and looking for prospective PhD, master, and undergrad students!"
+    info: "We are looking for prospective PhD, master, and undergrad students!" #"We are recruiting Postdocs and looking for prospective PhD, master, and undergrad students!"
     text_color: "white"
     # if you don't want to use background image, comment it. back_color will be activated.
     # img: ":projects-heading.jpg"
     back_color: "#5b5b5b"
 
   category:
-    - title: "Postdocs"
-      type: id_postdoc
-      color: "#6fa8dc"
+    # - title: "Postdocs"
+    #   type: id_postdoc
+    #   color: "#6fa8dc"
     - title: "PhDs"
       type: id_phd
       color: "#F4A273"
@@ -27,28 +27,28 @@ page_data:
 
   list:
 ###############
-    - type: id_postdoc
-      project_name: "Postdocs"
-      project_excerpt: "Postdocs"
+    # - type: id_postdoc
+    #   project_name: "Postdocs"
+    #   project_excerpt: "Postdocs"
 #      img: ":project1_thumb.jpg"
 #      img_title: "img title1"
-      date: "2024-04-01"
-      post: |
-        The following projects are actively looking for postdocs. Please refer to [Projects](https://arase-cl-lab.c.titech.ac.jp/tabs/projects.html) for details.
+      #date: "2024-04-01"
+      #post: |
+        #The following projects are actively looking for postdocs. Please refer to [Projects](https://arase-cl-lab.c.titech.ac.jp/tabs/projects.html) for details.
 
         ### Medical NLP
-        - Medical document summarization
-        - Domain adaptation
-        - Data augmentation
-        - Development and evaluation of medical LLMs
+        # - Medical document summarization
+        # - Domain adaptation
+        # - Data augmentation
+        # - Development and evaluation of medical LLMs
 
         ### LLM Evaluation
-        - Dataset creation for misalignment evaluation
-        - Misalignment detection
-        - Evaluation metrics for misalignment
+        # - Dataset creation for misalignment evaluation
+        # - Misalignment detection
+        # - Evaluation metrics for misalignment
 
         ### Application Procedure
-        Please email your resume and list of publications to Yuki Arase.
+        # Please email your resume and list of publications to Yuki Arase.
 
 ################
     - type: id_phd
@@ -62,6 +62,11 @@ page_data:
         If you are interested, please forward your resume, list of publications, and research proposal to Yuki Arase.
 
         For further information regarding the admission process, please refer to <a href="https://www.titech.ac.jp/english/admissions/prospective-students/graduate-programs/igp" target="_blank" rel="noopener noreferrer">SCIENCE TOKYO's official admission page</a>.
+
+        Due to the volume of inquiries and ongoing research activities, we may not be able to reply to every message individually.
+        Please note that we are unable to accommodate unannounced visits or phone calls regarding applications to our Master's or Doctoral programs.
+        If you have contacted us by email and have not received a response, we kindly ask that you refrain from visiting the laboratory without prior arrangement.
+        We appreciate your understanding and cooperation.
 
         [Note] Please be advised that we do not have positions available for visiting or research students prior to the entrance examination.
 
@@ -77,6 +82,11 @@ page_data:
         If you are interested, kindly submit your resume, list of publications, and research proposal to Yuki Arase.
 
         For details regarding the admission process, please consult <a href="https://www.titech.ac.jp/english/admissions/prospective-students/graduate-programs/igp" target="_blank" rel="noopener noreferrer">SCIENCE TOKYO's official admission page</a>.
+
+        Due to the volume of inquiries and ongoing research activities, we may not be able to reply to every message individually.
+        Please note that we are unable to accommodate unannounced visits or phone calls regarding applications to our Master's or Doctoral programs.
+        If you have contacted us by email and have not received a response, we kindly ask that you refrain from visiting the laboratory without prior arrangement.
+        We appreciate your understanding and cooperation.
 
         [Note] Please be advised that we do not have positions available for visiting or research students prior to the entrance examination.
 
