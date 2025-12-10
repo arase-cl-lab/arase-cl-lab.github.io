@@ -58,6 +58,8 @@ page_data:
 #      img_title: "img title1"
       date: "2024-04-01"
       post: |
+        [Note 1]
+        
         We are currently seeking highly motivated PhD students who are passionate about advancing NLP/CL technology.
         If you are interested, please forward your resume, list of publications, and research proposal to Yuki Arase.
 
@@ -68,7 +70,9 @@ page_data:
         If you have contacted us by email and have not received a response, we kindly ask that you refrain from visiting the laboratory without prior arrangement.
         We appreciate your understanding and cooperation.
 
-        [Note] Please be advised that we do not have positions available for visiting or research students prior to the entrance examination.
+        [Note 2] 
+        
+        Please be advised that we do not have positions available for visiting or research students prior to the entrance examination.
 
 ################
     - type: id_master
@@ -78,6 +82,8 @@ page_data:
 #      img_title: "img title1"
       date: "2024-04-01"
       post: |
+        [Note 1]
+
         We are actively seeking international students who are deeply motivated to advance NLP/CL technology.
         If you are interested, kindly submit your resume, list of publications, and research proposal to Yuki Arase.
 
@@ -88,7 +94,9 @@ page_data:
         If you have contacted us by email and have not received a response, we kindly ask that you refrain from visiting the laboratory without prior arrangement.
         We appreciate your understanding and cooperation.
 
-        [Note] Please be advised that we do not have positions available for visiting or research students prior to the entrance examination.
+        [Note 2] 
+        
+        Please be advised that we do not have positions available for visiting or research students prior to the entrance examination.
 
 ################
     - type: id_undergrad
