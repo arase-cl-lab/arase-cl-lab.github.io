@@ -50,7 +50,7 @@ lng_pair: id_about
 - **坂口 慶祐**, 東北大学 &ensp;<a href="https://keisuke-sakaguchi.github.io/" target="_blank" rel="noopener noreferrer"><i class="fa fa-globe" aria-hidden="true"></i></a>
 
 ### 博士学生
-- **Xuanxin Wu**, D3 (大阪大学) &ensp;<a href="https://wuxuanxin.github.io/" target="_blank" rel="noopener noreferrer"><i class="fa fa-globe" aria-hidden="true"></i></a>
+- **Xuanxin Wu**, D3 (大阪大学) &ensp;<a href="https://sites.google.com/view/xuanxinwupersonal/home" target="_blank" rel="noopener noreferrer"><i class="fa fa-globe" aria-hidden="true"></i></a>
 - **Guanting Luo**, D2 (大阪大学)
 - **Yuanhang Yang**, D1 &ensp;<a href="https://ysngki.github.io/" target="_blank" rel="noopener noreferrer"><i class="fa fa-globe" aria-hidden="true"></i></a>
 
