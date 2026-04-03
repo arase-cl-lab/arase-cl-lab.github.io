@@ -42,6 +42,3 @@ date: 2026-03-26 17:00:00 +0900
 {%- comment -%} Please place your page content here {%- endcomment -%}
 
 The 2025 Academic Year Degree Conferment Ceremony was held, and Shutaro Kobayashi and Hikaru Ito received their bachelor’s degrees.
-
-
-{% include image.html path="post_graduation_2026_03.jpg" %}
