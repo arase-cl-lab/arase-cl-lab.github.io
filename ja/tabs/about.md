@@ -50,22 +50,28 @@ lng_pair: id_about
 - **坂口 慶祐**, 東北大学 &ensp;<a href="https://keisuke-sakaguchi.github.io/" target="_blank" rel="noopener noreferrer"><i class="fa fa-globe" aria-hidden="true"></i></a>
 
 ### 博士学生
-- **Xuanxin Wu**, D3 (大阪大学) &ensp;<a href="https://sites.google.com/view/xuanxinwupersonal/home" target="_blank" rel="noopener noreferrer"><i class="fa fa-globe" aria-hidden="true"></i></a>
-- **Guanting Luo**, D2 (大阪大学)
-- **Yuanhang Yang**, D1 &ensp;<a href="https://ysngki.github.io/" target="_blank" rel="noopener noreferrer"><i class="fa fa-globe" aria-hidden="true"></i></a>
+- **Xuanxin Wu**, D4 (大阪大学) &ensp;<a href="https://sites.google.com/view/xuanxinwupersonal/home" target="_blank" rel="noopener noreferrer"><i class="fa fa-globe" aria-hidden="true"></i></a>
+- **Guanting Luo**, D3 (大阪大学)
+- **Yuanhang Yang**, D2 &ensp;<a href="https://ysngki.github.io/" target="_blank" rel="noopener noreferrer"><i class="fa fa-globe" aria-hidden="true"></i></a>
 
-### 修士学生・学部生
-- **石倉 誠也**, M1
-- **田村 聡信**, M1
-- **Sangjun Han**, M1
+### 修士学生
+- **石倉 誠也**, M2
+- **田村 聡信**, M2
+- **Sangjun Han**, M2
+- **山田 美優**, M2 &ensp;<a href="https://miyu-y.github.io/template/index.html" target="_blank" rel="noopener noreferrer"><i class="fa fa-globe" aria-hidden="true"></i></a>
 - **Tyrone White**, M1
-- **山田 美優**, M1 &ensp;<a href="https://miyu-y.github.io/template/index.html" target="_blank" rel="noopener noreferrer"><i class="fa fa-globe" aria-hidden="true"></i></a>
-- **小林 秀太郎**, B4
-- **伊藤 晃**, B3
+- **小林 秀太郎**, M1
+- **伊藤 晃**, M1
+- **平安山 英樹**, M1
+- **前村 柊吾**, M1
+- **Junyao Zhu**, M1
+
+### 学部生
+- **田中 昂平**, B4
+- **外山 みちる**, B3
 
 ### 交換留学生
 - **Yi-Ning Chang**
-- **Eugene Matsumura**
 
 ---
 ### 卒業生・過去の在籍メンバー
@@ -73,6 +79,7 @@ lng_pair: id_about
 - **Guanlin Li (交換留学生)**
 - **Elias Bergström Persson (交換留学生)**
 - **Hui Huang (交換留学生)**
+- **Eugene Matsumura (交換留学生)**
 
 **2024年度**
 - **小笠 雄也 (大阪大学, M2)**

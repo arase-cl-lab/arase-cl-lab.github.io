@@ -51,22 +51,28 @@ lng_pair: id_about
 - **Keisuke Sakaguchi**, Tohoku University &ensp;<a href="https://keisuke-sakaguchi.github.io/" target="_blank" rel="noopener noreferrer"><i class="fa fa-globe" aria-hidden="true"></i></a>
 
 ### PhD
-- **Xuanxin Wu**, D3 (Osaka University) &ensp;<a href="https://sites.google.com/view/xuanxinwupersonal/home" target="_blank" rel="noopener noreferrer"><i class="fa fa-globe" aria-hidden="true"></i></a>
-- **Guanting Luo**, D2 (Osaka University)
-- **Yuanhang Yang**, D1 &ensp;<a href="https://ysngki.github.io/" target="_blank" rel="noopener noreferrer"><i class="fa fa-globe" aria-hidden="true"></i></a>
+- **Xuanxin Wu**, D4 (Osaka University) &ensp;<a href="https://sites.google.com/view/xuanxinwupersonal/home" target="_blank" rel="noopener noreferrer"><i class="fa fa-globe" aria-hidden="true"></i></a>
+- **Guanting Luo**, D3 (Osaka University)
+- **Yuanhang Yang**, D2 &ensp;<a href="https://ysngki.github.io/" target="_blank" rel="noopener noreferrer"><i class="fa fa-globe" aria-hidden="true"></i></a>
 
-### Master & Undergrad
-- **Seiya Ishikura**, M1
-- **Soshin Tamura**, M1
-- **Sangjun Han**, M1
+### Master
+- **Seiya Ishikura**, M2
+- **Soshin Tamura**, M2
+- **Sangjun Han**, M2
+- **Miyu Yamada**, M2 &ensp;<a href="https://miyu-y.github.io/template/index.html" target="_blank" rel="noopener noreferrer"><i class="fa fa-globe" aria-hidden="true"></i></a>
 - **Tyrone White**, M1
-- **Miyu Yamada**, M1 &ensp;<a href="https://miyu-y.github.io/template/index.html" target="_blank" rel="noopener noreferrer"><i class="fa fa-globe" aria-hidden="true"></i></a>
-- **Shutaro Kobayashi**, B4
-- **Hikaru Ito**, B3
+- **Shutaro Kobayashi**, M1
+- **Hikaru Ito**, M1
+- **Hideki Henzan**, M1
+- **Shugo Maemura**, M1
+- **Junyao Zhu**, M1
+
+### Undergraduate
+- **Kohei Tanaka**, B4
+- **Michiru Toyama**, B3
 
 ### Exchange Student
 - **Yi-Ning Chang**
-- **Eugene Matsumura**
 
 ---
 ### Graduates and Former Members
@@ -74,6 +80,7 @@ lng_pair: id_about
 - **Guanlin Li (Exchange Student)**
 - **Elias Bergström Persson (Exchange Student)**
 - **Hui Huang (Exchange Student)**
+- **Eugene Matsumura (Exchange Student)**
 
 **2024年度**
 - **Yuya Ogasa (Osaka University, M2)**
