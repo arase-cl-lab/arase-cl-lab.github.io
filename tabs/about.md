@@ -77,10 +77,10 @@ lng_pair: id_about
 ---
 ### Graduates and Former Members
 **2025年度**
-- **Eugene Matsumura (Exchange Student)**
 - **Guanlin Li (Exchange Student)**
 - **Elias Bergström Persson (Exchange Student)**
 - **Hui Huang (Exchange Student)**
+- **Eugene Matsumura (Exchange Student)**
 
 **2024年度**
 - **Yuya Ogasa (Osaka University, M2)**

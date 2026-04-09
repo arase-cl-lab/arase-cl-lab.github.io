@@ -76,10 +76,10 @@ lng_pair: id_about
 ---
 ### 卒業生・過去の在籍メンバー
 **2025年度**
-- **Eugene Matsumura (交換留学生)**
 - **Guanlin Li (交換留学生)**
 - **Elias Bergström Persson (交換留学生)**
 - **Hui Huang (交換留学生)**
+- **Eugene Matsumura (交換留学生)**
 
 **2024年度**
 - **小笠 雄也 (大阪大学, M2)**
