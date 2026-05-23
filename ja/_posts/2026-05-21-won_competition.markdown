@@ -43,4 +43,4 @@ date: 2026-05-21 14:30:00 +0900
 
 Wuさん、Changさんの共著論文が、British Council主催のBEA 2026 Shared Task「Vocabulary Difficulty Prediction for English Learners」 (Open Track)で優勝しました！
 
-Adam Nohejl, Xuanxin Wu, Yusuke Ide, Maria Angelica Riera Machin, Yi-Ning Chang, Hitomi Yanaka. What Makes Words Hard? Sakura at BEA 2026 Shared Task on Vocabulary Difficulty Prediction. Proceedings of the 21st Workshop on Innovative Use of NLP for Building Educational Applications (BEA, Oral)
+Adam Nohejl, Xuanxin Wu, Yusuke Ide, Maria Angelica Riera Machin, Yi-Ning Chang, Hitomi Yanaka. Sakura at BEA 2026 Shared Task 1: What Makes Vocabulary Difficult? In Proceedings of the 21st Workshop on Innovative Use of NLP for Building Educational Applications (BEA, Oral)
