@@ -1,0 +1,88 @@
+# Publications page data for Arase Lab.
+# Bibliographic entries are kept verbatim as published.
+# Japanese-only publications (domestic venues, awards) are listed on the Japanese page only.
+###########################################################
+#                Publications Page Data
+###########################################################
+page_data:
+  main:
+    header: "Publications"
+    info: "Publications from Arase Lab"
+    text_color: "white"
+    # if you don't want to use background image, comment it. back_color will be activated.
+    # img: ":publications-heading.jpg"
+    back_color: "#4a6572"
+
+  # To change order of the Categories, simply change order. (you don't need to change list order.)
+  category:
+    - title: "Journal / Conference"
+      type: id_intl
+      color: "#6fa8dc"
+    - title: "Invited Talks"
+      type: id_invited
+      color: "#F4A273"
+
+  # Entries are grouped by year automatically, newest first.
+  list:
+    ###### id_intl ######
+    - type: id_intl
+      year: 2026
+      cite: "X. Wu, Y. Arase, and M. Nagata. 2026. Edit Policy-Aligned Text Simplification, in Proc. of the 5th Asia-Pacific Chapter of the Association for Computational Linguistics & the 15th International Joint Conference on Natural Language Processing (AACL-IJCNLP 2026 to appear)."
+    - type: id_intl
+      year: 2026
+      cite: "T. White and Y. Arase. 2026. FreqBLiMP: Frequency-Controlled Minimal Pairs Reveal Robustness and Fragility of LLMs Under Lexical Rarity, in Proc. of Conference on Empirical Methods in Natural Language Processing (EMNLP 2026 to appear)."
+    - type: id_intl
+      year: 2026
+      cite: "T. Naous, A. Savit, C. Rafael Catalan, G. Guo, J. Lee, K. Lee, L. M. Dizon, M. Ye, N. Kothari, S. Singh, S. Masud, T. Patwa, T. T. Tran, Z. Khan, A. Ritter, T. Chakraborty, Y. Arase, K. Sakaguchi, J. Bak, W. Xu. 2026. Camellia: Benchmarking Cultural Biases in LLMs for Asian Languages, in Proc. of Conference on Empirical Methods in Natural Language Processing (EMNLP 2026 to appear)."
+    - type: id_intl
+      year: 2026
+      cite: "H. Huang, M. Yang, and Y. Arase. 2026. AEScorer: An Agentic Evidence-Grounded Framework for Graded Factuality Verification. in Findings of the Association for Computational Linguistics: EMNLP (Oct. 2026 to appear)."
+    - type: id_intl
+      year: 2026
+      cite: "Y. Fujiwara, R. Miyata, T. Kajiwara, and Y. Arase. 2026. Continuous Difficulty Control for Text Simplification, in Findings of the Association for Computational Linguistics: EMNLP (Oct. 2026 to appear)."
+    - type: id_intl
+      year: 2026
+      cite: "K. Kobayashi, Y. Yamagishi, R. Shibaki, A. Sakai, T, Kodama, L. Gu, I. Li, Y. Arase, A. Aizawa, and S. Kurohashi. 2026. Stabilizing Hard-Negative Preference Optimization for Medical LLMs, in Findings of the Association for Computational Linguistics: EMNLP (Oct. 2026 to appear)."
+    - type: id_intl
+      year: 2026
+      cite: "Guanting Luo, Noriki Nishida, Yuji Matsumoto, and Yuki Arase. 2026. Applicability Condition Extraction for Therapeutic Drug-Disease Relations. in Findings of the Association for Computational Linguistics: ACL 2026, pp. 3135–3148, (July 2026)."
+    - type: id_intl
+      year: 2026
+      cite: "H. Huang, X. Wu, M. Yang, and Y. Arase. 2026. Reasoning Model Is Superior LLM-Judge, Yet Suffers from Biases. In Proceedings of the Workshop on Evaluating Evaluations (EvalEval), pp. 70–81, (July 2026)."
+    - type: id_intl
+      year: 2026
+      cite: "X. Wu and Y. Arase. An In-depth Evaluation of Large Language Models in Sentence Simplification with Error-based Human Assessment. in ACM Transactions on Intelligent Systems and Technology, vol. 17, No. 4. (Apr. 2026)."
+    - type: id_intl
+      year: 2025
+      cite: "K. Kobayashi, Z. Wan, F. Cheng, Y. Tsuta, X. Zhao, J. Jiang, J. Huang, Z. Huang, Y. Oda, R. Yokota, Y. Arase, D. Kawahara, A, Aizawa, and S. Kurohashi. 2025. Leveraging High-Resource English Corpora for Cross-lingual Domain Adaptation in Low-Resource Japanese Medicine via Continued Pre-training. in Findings of the Association for Computational Linguistics: EMNLP 2025, pp. 11469–11488, (Nov. 2025)."
+    - type: id_intl
+      year: 2025
+      cite: "Y. Ogasa and Y. Arase. Hallucinated Span Detection with Multi-View Attention Features. In Proceedings of the Joint Conference on Lexical and Computational Semantics (*SEM 2025), pages 381–394, (Nov. 2025)."
+    - type: id_intl
+      year: 2025
+      cite: "M. Yamada and Y. Arase. Light-Weight Hallucination Detection using Contrastive Learning for Conditional Text Generation. In Proceedings of the Annual Meeting of the Association for Computational Linguistics: Student Research Workshop, pages 687–694 (July 2025)."
+    - type: id_intl
+      year: 2025
+      cite: "R. Miyano and Y. Arase. Adaptive LoRA Merge with Parameter Pruning for Low-Resource Generation. in Findings of the Association for Computational Linguistics: ACL 2025, pp. 19353–19366 (July 2025)."
+    - type: id_intl
+      year: 2025
+      cite: "G. Luo and Y. Arase. MedSummRAG: Domain-Specific Retrieval for Medical Summarization. in Proceedings of the Workshop on Biomedical Language Processing (BioNLP), pp. 27–33 (Aug. 2025)."
+    - type: id_intl
+      year: 2025
+      cite: "G. Li, Y. Arase, N. Crespi. Aligning Sentence Simplification with ESL Learner's Proficiency for Language Acquisition, in Proceedings of Annual Conference of the Nations of the Americas Chapter of the ACL (NAACL), pp. 492–507 (Apr. 2025)."
+    - type: id_intl
+      year: 2024
+      cite: "T. Zetsu, Y. Arase, and T. Kajiwara. Edit-Constrained Decoding for Sentence Simplification, in Proc. of EMNLP 2024 Findings, pp.7161–7173 (Nov. 2024)."
+    - type: id_intl
+      year: 2024
+      cite: "K. Horiguchi, T. Kajiwara, Y. Arase, and T. Ninomiya. Evaluation Dataset for Japanese Medical Text Simplification. In Proc. of Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (Student Research Workshop), pp. 219–225 (June 2024)."
+    - type: id_intl
+      year: 2024
+      cite: "Y. Ogasa, T. Kajiwara, Y. Arase. Controllable Paraphrase Generation for Semantic and Lexical Similarities, in Proc. of Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024), pp. 3927–3942 (May 2024)."
+    ###### id_invited ######
+    - type: id_invited
+      year: 2026
+      cite: "What Does Simple Mean? Grounded Text Simplification. Singapore Symposium on Natural Language Processing (Jan. 2026)"
+    - type: id_invited
+      year: 2025
+      cite: "Grounding Text Complexity Control in Defined Linguistic Difficulty. The 14th Joint Conference on Lexical and Computational Semantics (*SEM 2025) (Nov. 2025)."

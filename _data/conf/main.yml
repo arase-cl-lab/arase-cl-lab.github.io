@@ -191,6 +191,8 @@ side_and_top_nav_buttons:
     icon: "fa fa-newspaper-o"
   - projects:
     icon: "fa fa-book"
+  - publications:
+    icon: "fa fa-file-text-o"
   - about:
     icon: "fa fa-users"
   - opening:
