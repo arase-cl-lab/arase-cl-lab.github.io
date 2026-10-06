@@ -115,6 +115,8 @@ page_data:
         However, despite their widespread adoption, these LLMs are not flawless; issues such as hallucinations, adversarial use for disinformation generation, and the amplification of social biases are well-documented concerns.
         In order to ensure the healthy and safe use of LLMs, it is imperative to identify and rectify such misalignments.
         This project aims to develop technology capable of systematically detecting and evaluating misalignments in LLMs.
+        
+        Related project: [Red Teaming Framework for Misalignment of Large Language Models](https://kpro.mdl.comp.isct.ac.jp/rtf-en.html) (JST K Program)
 
         ### Keywords
         - Large language models (LLMs)
